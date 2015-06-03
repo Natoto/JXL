@@ -1,0 +1,3800 @@
+<root>
+	<province name="陕西">
+		<city name="安康市" sx="A">
+			<college name="安康学院" id="2756" />
+			<college name="安康职业技术学院" id="2790" />
+		</city>
+		<city name="宝鸡市" sx="B">
+			<college name="宝鸡文理学院" id="2745" />
+			<college name="宝鸡职业技术学院" id="2792" />
+		</city>
+		<city name="汉中市" sx="H">
+			<college name="陕西理工学院" id="2743" />
+			<college name="陕西航空职业技术学院" id="2773" />
+			<college name="汉中职业技术学院" id="2793" />
+		</city>
+		<city name="商洛市" sx="S">
+			<college name="商洛学院" id="2758" />
+			<college name="商洛职业技术学院" id="2791" />
+		</city>
+		<city name="铜川市" sx="T">
+			<college name="铜川职业技术学院" id="2795" />
+		</city>
+		<city name="渭南市" sx="W">
+			<college name="渭南师范学院" id="2741" />
+			<college name="陕西铁路工程职业技术学院" id="2774" />
+			<college name="渭南职业技术学院" id="2794" />
+		</city>
+		<city name="西安市" sx="X">
+			<college name="西安交通大学" id="2719" />
+			<college name="长安大学" id="2720" />
+			<college name="西安电子科技大学" id="2721" />
+			<college name="陕西师范大学" id="2723" />
+			<college name="西北工业大学" id="2724" />
+			<college name="西北大学" id="2725" />
+			<college name="西安理工大学" id="2727" />
+			<college name="西安建筑科技大学" id="2728" />
+			<college name="西安科技大学" id="2729" />
+			<college name="西安石油大学" id="2730" />
+			<college name="西安工程大学" id="2731" />
+			<college name="西安工业大学" id="2732" />
+			<college name="西安外国语大学" id="2733" />
+			<college name="西北政法大学" id="2734" />
+			<college name="陕西科技大学" id="2735" />
+			<college name="西安邮电大学" id="2736" />
+			<college name="西安航空学院" id="2737" />
+			<college name="陕西学前师范学院" id="2739" />
+			<college name="西安医学院" id="2740" />
+			<college name="西安财经学院" id="2746" />
+			<college name="西安体育学院" id="2747" />
+			<college name="西安美术学院" id="2748" />
+			<college name="西安音乐学院" id="2749" />
+			<college name="西安培华学院" id="2750" />
+			<college name="西安翻译学院" id="2751" />
+			<college name="西安欧亚学院" id="2752" />
+			<college name="西安思源学院" id="2753" />
+			<college name="西京学院" id="2754" />
+			<college name="西安文理学院" id="2755" />
+			<college name="西安外事学院" id="2757" />
+			<college name="陕西国际商贸学院" id="2759" />
+			<college name="陕西服装工程学院" id="2760" />
+			<college name="西安交通工程学院" id="2761" />
+			<college name="西安电力高等专科学校" id="2762" />
+			<college name="西安医学高等专科学校" id="2763" />
+			<college name="陕西电子信息职业技术学院" id="2765" />
+			<college name="陕西职业技术学院" id="2767" />
+			<college name="陕西警官职业学院" id="2768" />
+			<college name="陕西邮电职业技术学院" id="2769" />
+			<college name="陕西国防工业职业技术学院" id="2770" />
+			<college name="陕西交通职业技术学院" id="2772" />
+			<college name="陕西经济管理职业技术学院" id="2775" />
+			<college name="陕西电子科技职业学院" id="2776" />
+			<college name="陕西旅游烹饪职业学院" id="2777" />
+			<college name="陕西青年职业学院" id="2778" />
+			<college name="陕西工商职业学院" id="2779" />
+			<college name="西安汽车科技职业学院" id="2780" />
+			<college name="西安高新科技职业学院" id="2781" />
+			<college name="西安城市建设职业学院" id="2782" />
+			<college name="西安航空职业技术学院" id="2783" />
+			<college name="西安东方亚太职业技术学院" id="2784" />
+			<college name="西安铁路职业技术学院" id="2785" />
+			<college name="西安海棠职业学院" id="2786" />
+			<college name="西安职业技术学院" id="2787" />
+			<college name="陕西艺术职业学院" id="2798" />
+			<college name="西安交通大学城市学院" id="2799" />
+			<college name="西北大学现代学院" id="2800" />
+			<college name="西安建筑科技大学华清学院" id="2801" />
+			<college name="西安财经学院行知学院" id="2802" />
+			<college name="陕西科技大学镐京学院" id="2803" />
+			<college name="西安工业大学北方信息工程学院" id="2804" />
+			<college name="延安大学西安创新学院" id="2805" />
+			<college name="西安电子科技大学长安学院" id="2806" />
+			<college name="西北工业大学明德学院" id="2807" />
+			<college name="西安科技大学高新学院" id="2808" />
+			<college name="长安大学兴华学院" id="2809" />
+			<college name="西安理工大学高科学院" id="2810" />
+			<college name="西安培华学院" id="2811" />
+			<college name="西安翻译学院" id="2812" />
+			<college name="西安欧亚学院" id="2813" />
+			<college name="西安思源学院" id="2814" />
+			<college name="西京学院" id="2815" />
+			<college name="西安外事学院" id="2816" />
+			<college name="陕西国际商贸学院" id="2817" />
+			<college name="陕西服装工程学院" id="2818" />
+			<college name="西安交通工程学院" id="2819" />
+			<college name="西安海棠职业学院" id="2820" />
+			<college name="西安东方亚太职业技术学院" id="2821" />
+			<college name="陕西电子科技职业学院" id="2822" />
+			<college name="陕西旅游烹饪职业学院" id="2823" />
+			<college name="西安汽车科技职业学院" id="2824" />
+			<college name="西安高新科技职业学院" id="2825" />
+			<college name="西安城市建设职业学院" id="2826" />
+			<college name="陕西电子信息职业技术学院" id="2827" />
+			<college name="西安医学高等专科学校" id="2828" />
+		</city>
+		<city name="咸阳市" sx="X">
+			<college name="陕西中医学院" id="2738" />
+			<college name="咸阳师范学院" id="2744" />
+			<college name="陕西工业职业技术学院" id="2764" />
+			<college name="陕西财经职业技术学院" id="2766" />
+			<college name="陕西能源职业技术学院" id="2771" />
+			<college name="咸阳职业技术学院" id="2788" />
+		</city>
+		<city name="延安市" sx="Y">
+			<college name="延安大学" id="2726" />
+			<college name="延安职业技术学院" id="2796" />
+		</city>
+		<city name="杨凌" sx="Y">
+			<college name="西北农林科技大学" id="2722" />
+		</city>
+		<city name="榆林市" sx="Y">
+			<college name="榆林学院" id="2742" />
+			<college name="榆林职业技术学院" id="2797" />
+		</city>
+		<city name="杨凌市" sx="Y">
+			<college name="杨凌职业技术学院" id="2789" />
+		</city>
+	</province>
+	<province name="新疆">
+		<city name="阿克苏" sx="A">
+			<college name="阿克苏职业技术学院" id="2930" />
+		</city>
+		<city name="阿拉尔市" sx="A">
+			<college name="塔里木大学" id="2906" />
+		</city>
+		<city name="昌吉市" sx="C">
+			<college name="昌吉学院" id="2913" />
+			<college name="新疆农业职业技术学院" id="2921" />
+			<college name="昌吉职业技术学院" id="2927" />
+		</city>
+		<city name="哈密市" sx="H">
+			<college name="哈密职业技术学院" id="2939" />
+		</city>
+		<city name="和田市" sx="H">
+			<college name="新疆维吾尔医学专科学校" id="2916" />
+			<college name="和田师范专科学校" id="2917" />
+		</city>
+		<city name="库尔勒" sx="K">
+			<college name="巴音郭楞职业技术学院" id="2929" />
+		</city>
+		<city name="克拉玛依" sx="K">
+			<college name="克拉玛依职业技术学院" id="2922" />
+		</city>
+		<city name="喀什市" sx="K">
+			<college name="喀什师范学院" id="2909" />
+		</city>
+		<city name="奎屯市" sx="K">
+			<college name="新疆应用职业技术学院" id="2935" />
+		</city>
+		<city name="石河子" sx="S">
+			<college name="石河子大学" id="2904" />
+			<college name="新疆石河子职业技术学院" id="2932" />
+		</city>
+		<city name="石河子市" sx="S">
+			<college name="石河子大学科技学院" id="2944" />
+		</city>
+		<city name="五家渠市" sx="W">
+			<college name="新疆兵团警官高等专科学校" id="2918" />
+		</city>
+		<city name="乌鲁木齐" sx="W">
+			<college name="新疆大学" id="2903" />
+			<college name="新疆农业大学" id="2905" />
+			<college name="新疆医科大学" id="2907" />
+			<college name="新疆师范大学" id="2908" />
+			<college name="新疆财经大学" id="2911" />
+			<college name="新疆艺术学院" id="2912" />
+			<college name="新疆工程学院" id="2914" />
+			<college name="新疆警察学院" id="2915" />
+			<college name="新疆师范高等专科学校" id="2919" />
+			<college name="乌鲁木齐职业大学" id="2920" />
+			<college name="新疆职业大学" id="2923" />
+			<college name="新疆轻工职业技术学院" id="2924" />
+			<college name="新疆建设职业技术学院" id="2926" />
+			<college name="新疆能源职业技术学院" id="2928" />
+			<college name="新疆现代职业技术学院" id="2931" />
+			<college name="新疆交通职业技术学院" id="2933" />
+			<college name="新疆天山职业技术学院" id="2934" />
+			<college name="新疆体育职业技术学院" id="2936" />
+			<college name="新疆铁道职业技术学院" id="2937" />
+			<college name="新疆生产建设兵团兴新职业技术学院" id="2938" />
+			<college name="新疆科技职业技术学院" id="2940" />
+			<college name="新疆大学科学技术学院" id="2941" />
+			<college name="新疆农业大学科学技术学院" id="2942" />
+			<college name="新疆医科大学厚博学院" id="2943" />
+			<college name="新疆天山职业技术学院" id="2945" />
+			<college name="新疆现代职业技术学院" id="2946" />
+			<college name="新疆能源职业技术学院" id="2947" />
+			<college name="新疆科技职业技术学院" id="2948" />
+		</city>
+		<city name="伊宁市" sx="Y">
+			<college name="伊犁师范学院" id="2910" />
+			<college name="伊犁职业技术学院" id="2925" />
+		</city>
+	</province>
+	<province name="内蒙古">
+		<city name="阿拉善" sx="A">
+			<college name="阿拉善职业技术学院" id="423" />
+		</city>
+		<city name="包头市" sx="B">
+			<college name="内蒙古科技大学" id="380" />
+			<college name="包头职业技术学院" id="394" />
+			<college name="包头钢铁职业技术学院" id="397" />
+			<college name="包头铁道职业技术学院" id="399" />
+			<college name="包头轻工职业技术学院" id="408" />
+			<college name="内蒙古经贸外语职业学院" id="412" />
+			<college name="内蒙古经贸外语职业学院" id="430" />
+		</city>
+		<city name="巴彦淖尔" sx="B">
+			<college name="河套学院" id="391" />
+			<college name="内蒙古美术职业学院" id="422" />
+			<college name="内蒙古美术职业学院" id="436" />
+		</city>
+		<city name="赤峰市" sx="C">
+			<college name="赤峰学院" id="390" />
+			<college name="内蒙古交通职业技术学院" id="402" />
+			<college name="赤峰职业技术学院" id="413" />
+			<college name="赤峰工业职业技术学院" id="424" />
+			<college name="赤峰职业技术学院" id="431" />
+		</city>
+		<city name="鄂尔多斯" sx="E">
+			<college name="内蒙古民族幼儿师范高等专科学校" id="393" />
+			<college name="鄂尔多斯职业学院" id="401" />
+		</city>
+		<city name="鄂尔多斯市" sx="E">
+			<college name="鄂尔多斯生态环境职业学院" id="426" />
+		</city>
+		<city name="呼和浩特" sx="H">
+			<college name="内蒙古大学" id="379" />
+			<college name="内蒙古工业大学" id="382" />
+			<college name="内蒙古农业大学" id="383" />
+			<college name="内蒙古师范大学" id="384" />
+			<college name="内蒙古医科大学" id="385" />
+			<college name="内蒙古财经大学" id="386" />
+			<college name="呼和浩特民族学院" id="388" />
+			<college name="内蒙古建筑职业技术学院" id="395" />
+			<college name="内蒙古商贸职业学院" id="400" />
+			<college name="内蒙古机电职业技术学院" id="403" />
+			<college name="内蒙古科技职业学院" id="404" />
+			<college name="内蒙古电子信息职业技术学院" id="405" />
+			<college name="呼和浩特职业学院" id="407" />
+			<college name="内蒙古化工职业学院" id="411" />
+			<college name="内蒙古北方职业技术学院" id="414" />
+			<college name="内蒙古体育职业学院" id="416" />
+			<college name="内蒙古警察职业学院" id="417" />
+			<college name="内蒙古丰州职业学院" id="418" />
+			<college name="内蒙古工业职业学院" id="421" />
+			<college name="内蒙古能源职业学院" id="425" />
+			<college name="内蒙古大学创业学院" id="427" />
+			<college name="内蒙古师范大学鸿德学院" id="428" />
+			<college name="内蒙古丰州职业学院" id="429" />
+			<college name="内蒙古北方职业技术学院" id="432" />
+			<college name="内蒙古科技职业学院" id="433" />
+			<college name="内蒙古工业职业学院" id="434" />
+			<college name="内蒙古能源职业学院" id="435" />
+		</city>
+		<city name="呼伦贝尔" sx="H">
+			<college name="呼伦贝尔学院" id="387" />
+			<college name="呼伦贝尔职业技术学院" id="419" />
+		</city>
+		<city name="满洲里" sx="M">
+			<college name="满洲里俄语职业学院" id="420" />
+		</city>
+		<city name="通辽市" sx="T">
+			<college name="内蒙古民族大学" id="381" />
+			<college name="科尔沁艺术职业学院" id="398" />
+			<college name="通辽职业学院" id="410" />
+		</city>
+		<city name="乌海市" sx="W">
+			<college name="乌海职业技术学院" id="396" />
+		</city>
+		<city name="乌兰察布" sx="W">
+			<college name="集宁师范学院" id="389" />
+			<college name="乌兰察布医学高等专科学校" id="392" />
+			<college name="乌兰察布职业学院" id="409" />
+		</city>
+		<city name="乌兰浩特" sx="W">
+			<college name="兴安职业技术学院" id="415" />
+		</city>
+		<city name="锡林浩特" sx="X">
+			<college name="锡林郭勒职业学院" id="406" />
+		</city>
+	</province>
+	<province name="安徽">
+		<city name="安庆市" sx="A">
+			<college name="安庆师范学院" id="1141" />
+			<college name="桐城师范高等专科学校" id="1160" />
+			<college name="安庆职业技术学院" id="1197" />
+			<college name="安徽黄梅戏艺术职业学院" id="1226" />
+		</city>
+		<city name="蚌埠市" sx="B">
+			<college name="安徽财经大学" id="1131" />
+			<college name="蚌埠医学院" id="1138" />
+			<college name="蚌埠学院" id="1151" />
+			<college name="安徽电子信息职业技术学院" id="1188" />
+			<college name="蚌埠经济技术职业学院" id="1209" />
+			<college name="安徽财经大学商学院" id="1235" />
+			<college name="蚌埠经济技术职业学院" id="1249" />
+		</city>
+		<city name="巢湖市" sx="C">
+			<college name="巢湖学院" id="1144" />
+			<college name="合肥职业技术学院" id="1199" />
+		</city>
+		<city name="滁州市" sx="C">
+			<college name="安徽科技学院" id="1140" />
+			<college name="滁州学院" id="1148" />
+			<college name="滁州职业技术学院" id="1204" />
+		</city>
+		<city name="池州市" sx="C">
+			<college name="池州职业技术学院" id="1176" />
+			<college name="安徽人口职业学院" id="1224" />
+		</city>
+		<city name="阜阳市" sx="F">
+			<college name="阜阳师范学院" id="1139" />
+			<college name="阜阳职业技术学院" id="1183" />
+			<college name="阜阳科技职业学院" id="1193" />
+			<college name="阜阳师范学院信息工程学院" id="1239" />
+			<college name="阜阳科技职业学院" id="1247" />
+		</city>
+		<city name="凤阳县" sx="F">
+			<college name="滁州城市职业学院" id="1219" />
+		</city>
+		<city name="贵池市" sx="G">
+			<college name="池州学院" id="1152" />
+		</city>
+		<city name="淮北市" sx="H">
+			<college name="淮北师范大学" id="1133" />
+			<college name="淮北职业技术学院" id="1170" />
+			<college name="安徽矿业职业技术学院" id="1185" />
+			<college name="淮北师范大学信息学院" id="1236" />
+		</city>
+		<city name="合肥市" sx="H">
+			<college name="合肥工业大学" id="1123" />
+			<college name="中国科学技术大学" id="1124" />
+			<college name="安徽大学" id="1125" />
+			<college name="安徽农业大学" id="1128" />
+			<college name="安徽医科大学" id="1129" />
+			<college name="安徽建筑大学" id="1134" />
+			<college name="安徽中医药大学" id="1135" />
+			<college name="合肥师范学院" id="1137" />
+			<college name="安徽新华学院" id="1143" />
+			<college name="合肥学院" id="1150" />
+			<college name="安徽三联学院" id="1153" />
+			<college name="安徽外国语学院" id="1154" />
+			<college name="安徽文达信息工程学院" id="1155" />
+			<college name="安徽医学高等专科学校" id="1157" />
+			<college name="合肥幼儿师范高等专科学校" id="1162" />
+			<college name="安徽水利水电职业技术学院" id="1163" />
+			<college name="安徽警官职业学院" id="1166" />
+			<college name="安徽商贸职业技术学院" id="1168" />
+			<college name="民办万博科技职业学院" id="1171" />
+			<college name="安徽职业技术学院" id="1172" />
+			<college name="安徽广播影视职业技术学院" id="1173" />
+			<college name="安徽林业职业技术学院" id="1174" />
+			<college name="安徽审计职业学院" id="1177" />
+			<college name="安徽新闻出版职业技术学院" id="1178" />
+			<college name="安徽邮电职业技术学院" id="1180" />
+			<college name="安徽财贸职业学院" id="1181" />
+			<college name="安徽国际商务职业学院" id="1182" />
+			<college name="合肥通用职业技术学院" id="1186" />
+			<college name="安徽交通职业技术学院" id="1187" />
+			<college name="安徽电气工程职业技术学院" id="1189" />
+			<college name="民办合肥经济技术职业学院" id="1190" />
+			<college name="安徽体育运动职业技术学院" id="1191" />
+			<college name="安徽艺术职业学院" id="1196" />
+			<college name="安徽工业经济职业技术学院" id="1198" />
+			<college name="安徽中澳科技职业学院" id="1200" />
+			<college name="安徽公安职业学院" id="1202" />
+			<college name="安徽工商职业学院" id="1203" />
+			<college name="民办合肥财经职业学院" id="1206" />
+			<college name="安徽城市管理职业学院" id="1208" />
+			<college name="合肥共达职业技术学院" id="1210" />
+			<college name="安徽绿海商务职业学院" id="1211" />
+			<college name="安徽涉外经济职业学院" id="1212" />
+			<college name="徽商职业学院" id="1214" />
+			<college name="民办合肥滨湖职业技术学院" id="1216" />
+			<college name="合肥信息技术职业学院" id="1217" />
+			<college name="安徽汽车职业技术学院" id="1221" />
+			<college name="安徽粮食工程职业学院" id="1223" />
+			<college name="合肥科技职业学院" id="1225" />
+			<college name="安徽长江职业学院" id="1227" />
+			<college name="安徽大学江淮学院" id="1230" />
+			<college name="安徽农业大学经济技术学院" id="1232" />
+			<college name="安徽医科大学临床医学院" id="1233" />
+			<college name="安徽建筑大学城市建设学院" id="1237" />
+			<college name="安徽新华学院" id="1241" />
+			<college name="安徽三联学院" id="1242" />
+			<college name="安徽外国语学院" id="1243" />
+			<college name="安徽文达信息工程学院" id="1244" />
+			<college name="民办万博科技职业学院" id="1245" />
+			<college name="民办合肥经济技术职业学院" id="1246" />
+			<college name="民办合肥财经职业学院" id="1248" />
+			<college name="合肥共达职业技术学院" id="1250" />
+			<college name="安徽绿海商务职业学院" id="1251" />
+			<college name="安徽涉外经济职业学院" id="1252" />
+			<college name="民办合肥滨湖职业技术学院" id="1254" />
+			<college name="合肥信息技术职业学院" id="1255" />
+			<college name="合肥科技职业学院" id="1257" />
+			<college name="安徽长江职业学院" id="1258" />
+		</city>
+		<city name="淮南市" sx="H">
+			<college name="安徽理工大学" id="1126" />
+			<college name="淮南师范学院" id="1142" />
+			<college name="淮南职业技术学院" id="1167" />
+			<college name="淮南联合大学" id="1169" />
+			<college name="安徽工贸职业技术学院" id="1184" />
+		</city>
+		<city name="黄山市" sx="H">
+			<college name="黄山职业技术学院" id="1220" />
+		</city>
+		<city name="六安市" sx="L">
+			<college name="皖西学院" id="1147" />
+			<college name="安徽国防科技职业学院" id="1194" />
+			<college name="六安职业技术学院" id="1195" />
+			<college name="皖西卫生职业学院" id="1222" />
+		</city>
+		<city name="马鞍山" sx="M">
+			<college name="安徽工业大学" id="1127" />
+			<college name="马鞍山师范高等专科学校" id="1156" />
+			<college name="安徽冶金科技职业学院" id="1175" />
+			<college name="马鞍山职业技术学院" id="1213" />
+		</city>
+		<city name="马鞍山市" sx="M">
+			<college name="安徽工业大学工商学院" id="1234" />
+			<college name="河海大学文天学院" id="1240" />
+		</city>
+		<city name="颍上县" sx="S">
+			<college name="民办安徽旅游职业学院" id="1215" />
+			<college name="民办安徽旅游职业学院" id="1253" />
+		</city>
+		<city name="寿县" sx="S">
+			<college name="安徽现代信息工程职业学院" id="1218" />
+			<college name="安徽现代信息工程职业学院" id="1256" />
+		</city>
+		<city name="宿州市" sx="S">
+			<college name="宿州学院" id="1145" />
+			<college name="宿州职业技术学院" id="1192" />
+			<college name="皖北卫生职业学院" id="1229" />
+		</city>
+		<city name="铜陵市" sx="T">
+			<college name="铜陵学院" id="1149" />
+			<college name="铜陵职业技术学院" id="1165" />
+			<college name="安徽工业职业技术学院" id="1179" />
+		</city>
+		<city name="屯溪市" sx="T">
+			<college name="黄山学院" id="1146" />
+		</city>
+		<city name="芜湖市" sx="W">
+			<college name="安徽师范大学" id="1130" />
+			<college name="安徽工程大学" id="1132" />
+			<college name="皖南医学院" id="1136" />
+			<college name="安徽中医药高等专科学校" id="1158" />
+			<college name="安庆医药高等专科学校" id="1161" />
+			<college name="芜湖职业技术学院" id="1164" />
+			<college name="安徽机电职业技术学院" id="1207" />
+			<college name="安徽扬子职业技术学院" id="1228" />
+			<college name="安徽师范大学皖江学院" id="1231" />
+			<college name="安徽工程大学机电学院" id="1238" />
+			<college name="安徽扬子职业技术学院" id="1259" />
+		</city>
+		<city name="宣城市" sx="X">
+			<college name="宣城职业技术学院" id="1205" />
+		</city>
+		<city name="亳州市" sx="Z">
+			<college name="亳州师范高等专科学校" id="1159" />
+			<college name="亳州职业技术学院" id="1201" />
+		</city>
+	</province>
+	<province name="辽宁">
+		<city name="鞍山市" sx="A">
+			<college name="辽宁科技大学" id="449" />
+			<college name="鞍山师范学院" id="472" />
+		</city>
+		<city name="本溪市" sx="B">
+			<college name="辽宁科技学院" id="468" />
+			<college name="辽宁冶金职业技术学院" id="536" />
+		</city>
+		<city name="朝阳市" sx="C">
+			<college name="朝阳师范高等专科学校" id="494" />
+		</city>
+		<city name="丹东市" sx="D">
+			<college name="辽东学院" id="478" />
+			<college name="辽宁机电职业技术学院" id="510" />
+			<college name="辽宁地质工程职业学院" id="522" />
+		</city>
+		<city name="大连市" sx="D">
+			<college name="大连理工大学" id="437" />
+			<college name="大连海事大学" id="439" />
+			<college name="大连大学" id="441" />
+			<college name="大连交通大学" id="448" />
+			<college name="大连工业大学" id="451" />
+			<college name="大连医科大学" id="454" />
+			<college name="辽宁师范大学" id="457" />
+			<college name="东北财经大学" id="460" />
+			<college name="大连海洋大学" id="463" />
+			<college name="大连外国语大学" id="464" />
+			<college name="大连民族大学" id="465" />
+			<college name="大连东软信息学院" id="469" />
+			<college name="大连艺术学院" id="477" />
+			<college name="辽宁对外经贸学院" id="479" />
+			<college name="大连科技学院" id="480" />
+			<college name="大连财经学院" id="484" />
+			<college name="辽宁警察学院" id="487" />
+			<college name="辽宁税务高等专科学校" id="497" />
+			<college name="大连职业技术学院" id="499" />
+			<college name="辽宁轻工职业学院" id="515" />
+			<college name="大连软件职业学院" id="526" />
+			<college name="大连翻译职业学院" id="527" />
+			<college name="大连枫叶职业技术学院" id="528" />
+			<college name="大连装备制造职业技术学院" id="529" />
+			<college name="大连汽车职业技术学院" id="530" />
+			<college name="大连航运职业技术学院" id="531" />
+			<college name="大连商务职业学院" id="532" />
+			<college name="大连理工大学城市学院" id="540" />
+			<college name="大连工业大学艺术与信息工程学院" id="541" />
+			<college name="辽宁师范大学海华学院" id="543" />
+			<college name="大连医科大学中山学院" id="546" />
+			<college name="辽宁对外经贸学院" id="552" />
+			<college name="大连东软信息学院" id="554" />
+			<college name="大连艺术学院" id="555" />
+			<college name="大连科技学院" id="557" />
+			<college name="大连财经学院" id="559" />
+			<college name="大连软件职业学院" id="566" />
+			<college name="大连翻译职业学院" id="567" />
+			<college name="大连枫叶职业技术学院" id="568" />
+			<college name="大连航运职业技术学院" id="569" />
+			<college name="大连装备制造职业技术学院" id="570" />
+			<college name="大连汽车职业技术学院" id="571" />
+			<college name="大连商务职业学院" id="573" />
+		</city>
+		<city name="抚顺市" sx="F">
+			<college name="辽宁石油化工大学" id="447" />
+			<college name="抚顺师范高等专科学校" id="493" />
+			<college name="抚顺职业技术学院" id="500" />
+			<college name="辽宁石油化工大学顺华能源学院" id="542" />
+		</city>
+		<city name="阜新市" sx="F">
+			<college name="辽宁工程技术大学" id="444" />
+			<college name="阜新高等专科学校" id="498" />
+		</city>
+		<city name="葫芦岛" sx="H">
+			<college name="渤海船舶职业学院" id="504" />
+		</city>
+		<city name="锦州市" sx="J">
+			<college name="辽宁工业大学" id="450" />
+			<college name="渤海大学" id="459" />
+			<college name="辽宁医学院" id="470" />
+			<college name="辽宁理工学院" id="489" />
+			<college name="锦州师范高等专科学校" id="492" />
+			<college name="辽宁石化职业技术学院" id="507" />
+			<college name="辽宁理工职业学院" id="509" />
+			<college name="辽宁铁道职业技术学院" id="511" />
+			<college name="辽宁医学院医疗学院" id="545" />
+			<college name="辽宁理工学院" id="562" />
+			<college name="辽宁理工职业学院" id="565" />
+		</city>
+		<city name="辽阳市" sx="L">
+			<college name="辽阳职业技术学院" id="505" />
+			<college name="辽宁建筑职业学院" id="512" />
+		</city>
+		<city name="盘锦市" sx="P">
+			<college name="盘锦职业技术学院" id="503" />
+			<college name="辽河石油职业技术学院" id="537" />
+		</city>
+		<city name="沈阳市" sx="S">
+			<college name="东北大学" id="438" />
+			<college name="辽宁大学" id="440" />
+			<college name="沈阳大学" id="442" />
+			<college name="沈阳理工大学" id="443" />
+			<college name="沈阳工业大学" id="445" />
+			<college name="沈阳建筑大学" id="446" />
+			<college name="沈阳农业大学" id="452" />
+			<college name="中国医科大学" id="453" />
+			<college name="辽宁中医药大学" id="455" />
+			<college name="沈阳药科大学" id="456" />
+			<college name="沈阳师范大学" id="458" />
+			<college name="沈阳化工大学" id="461" />
+			<college name="沈阳航空航天大学" id="462" />
+			<college name="中国刑事警察学院" id="466" />
+			<college name="沈阳工程学院" id="467" />
+			<college name="沈阳医学院" id="471" />
+			<college name="沈阳体育学院" id="474" />
+			<college name="鲁迅美术学院" id="475" />
+			<college name="沈阳音乐学院" id="476" />
+			<college name="辽宁何氏医学院" id="481" />
+			<college name="沈阳工学院" id="483" />
+			<college name="沈阳城市学院" id="485" />
+			<college name="沈阳城市建设学院" id="486" />
+			<college name="辽宁传媒学院" id="488" />
+			<college name="辽宁交通高等专科学校" id="490" />
+			<college name="辽宁民族师范高等专科学校" id="495" />
+			<college name="辽宁特殊教育师范高等专科学校" id="496" />
+			<college name="辽宁金融职业学院" id="506" />
+			<college name="辽宁经济职业技术学院" id="508" />
+			<college name="辽宁广告职业学院" id="513" />
+			<college name="辽宁商贸职业学院" id="514" />
+			<college name="辽宁水利职业学院" id="516" />
+			<college name="辽宁医药职业学院" id="517" />
+			<college name="辽宁政法职业学院" id="518" />
+			<college name="辽宁轨道交通职业学院" id="519" />
+			<college name="沈阳职业技术学院" id="520" />
+			<college name="沈阳航空职业技术学院" id="521" />
+			<college name="辽宁装备制造职业技术学院" id="523" />
+			<college name="辽宁林业职业技术学院" id="525" />
+			<college name="辽宁现代服务职业技术学院" id="533" />
+			<college name="辽宁城市建设职业技术学院" id="534" />
+			<college name="沈阳北软信息职业技术学院" id="539" />
+			<college name="辽宁中医药大学杏林学院" id="544" />
+			<college name="沈阳化工大学科亚学院" id="547" />
+			<college name="沈阳航空航天大学北方科技学院" id="548" />
+			<college name="辽宁科技大学信息技术学院" id="549" />
+			<college name="中国医科大学临床医药学院" id="550" />
+			<college name="沈阳工业大学工程学院" id="551" />
+			<college name="辽宁何氏医学院" id="556" />
+			<college name="沈阳工学院" id="558" />
+			<college name="沈阳城市学院" id="560" />
+			<college name="辽宁传媒学院" id="561" />
+			<college name="沈阳城市建设学院" id="563" />
+			<college name="辽宁广告职业学院" id="564" />
+			<college name="沈阳北软信息职业技术学院" id="572" />
+		</city>
+		<city name="铁岭市" sx="T">
+			<college name="铁岭师范高等专科学校" id="491" />
+			<college name="辽宁职业学院" id="524" />
+			<college name="辽宁工程职业学院" id="535" />
+			<college name="铁岭卫生职业学院" id="538" />
+		</city>
+		<city name="兴城市" sx="X">
+			<college name="辽宁财贸学院" id="473" />
+			<college name="辽宁财贸学院" id="553" />
+		</city>
+		<city name="营口市" sx="Y">
+			<college name="营口理工学院" id="482" />
+			<college name="营口职业技术学院" id="501" />
+			<college name="辽宁农业职业技术学院" id="502" />
+		</city>
+	</province>
+	<province name="贵州">
+		<city name="安顺市" sx="A">
+			<college name="安顺学院" id="2591" />
+			<college name="安顺职业技术学院" id="2606" />
+		</city>
+		<city name="毕节市" sx="B">
+			<college name="贵州工程应用技术学院" id="2588" />
+			<college name="毕节职业技术学院" id="2615" />
+			<college name="毕节医学高等专科学校" id="2621" />
+		</city>
+		<city name="都匀市" sx="D">
+			<college name="黔南民族师范学院" id="2584" />
+			<college name="黔南民族医学高等专科学校" id="2594" />
+			<college name="黔南民族职业技术学院" id="2611" />
+		</city>
+		<city name="贵定县" sx="G">
+			<college name="黔南民族幼儿师范高等专科学校" id="2620" />
+		</city>
+		<city name="贵阳市" sx="G">
+			<college name="贵州大学" id="2576" />
+			<college name="贵州师范大学" id="2577" />
+			<college name="贵州财经大学" id="2578" />
+			<college name="贵州民族大学" id="2579" />
+			<college name="贵阳医学院" id="2580" />
+			<college name="贵阳中医学院" id="2582" />
+			<college name="贵州师范学院" id="2583" />
+			<college name="贵阳学院" id="2592" />
+			<college name="贵州理工学院" id="2593" />
+			<college name="贵州商业高等专科学校" id="2596" />
+			<college name="贵阳幼儿师范高等专科学校" id="2597" />
+			<college name="贵州交通职业技术学院" id="2599" />
+			<college name="贵州警官职业学院" id="2600" />
+			<college name="贵阳护理职业学院" id="2601" />
+			<college name="贵州工业职业技术学院" id="2604" />
+			<college name="贵州电力职业技术学院" id="2607" />
+			<college name="贵州城市职业学院" id="2610" />
+			<college name="贵州轻工职业技术学院" id="2613" />
+			<college name="贵阳职业技术学院" id="2616" />
+			<college name="贵州职业技术学院" id="2617" />
+			<college name="贵州工商职业学院" id="2618" />
+			<college name="贵州建设职业技术学院" id="2622" />
+			<college name="贵州大学科技学院" id="2623" />
+			<college name="贵州大学明德学院" id="2624" />
+			<college name="贵州师范大学求是学院" id="2625" />
+			<college name="贵州财经学院商务学院" id="2627" />
+			<college name="贵州民族学院人文科技学院" id="2628" />
+			<college name="贵阳医学院神奇民族医药学院" id="2629" />
+			<college name="贵州城市职业学院" id="2630" />
+			<college name="贵州工商职业学院" id="2631" />
+		</city>
+		<city name="凯里市" sx="K">
+			<college name="凯里学院" id="2590" />
+			<college name="贵州电子信息职业技术学院" id="2603" />
+			<college name="黔东南民族职业技术学院" id="2608" />
+		</city>
+		<city name="六盘水市" sx="L">
+			<college name="六盘水师范学院" id="2587" />
+			<college name="六盘水职业技术学院" id="2605" />
+		</city>
+		<city name="黔南州" sx="Q">
+			<college name="贵州盛华职业学院" id="2619" />
+			<college name="贵州盛华职业学院" id="2632" />
+		</city>
+		<city name="思南县" sx="S">
+			<college name="铜仁幼儿师范高等专科学校" id="2598" />
+		</city>
+		<city name="铜仁市" sx="T">
+			<college name="铜仁学院" id="2589" />
+			<college name="铜仁职业技术学院" id="2609" />
+		</city>
+		<city name="兴义市" sx="X">
+			<college name="兴义民族师范学院" id="2586" />
+			<college name="黔西南民族职业技术学院" id="2612" />
+		</city>
+		<city name="遵义市" sx="Z">
+			<college name="遵义医学院" id="2581" />
+			<college name="遵义师范学院" id="2585" />
+			<college name="遵义医药高等专科学校" id="2595" />
+			<college name="贵州航天职业技术学院" id="2602" />
+			<college name="遵义职业技术学院" id="2614" />
+			<college name="遵义医学院医学与科技学院" id="2626" />
+		</city>
+	</province>
+	<province name="河南">
+		<city name="安阳市" sx="A">
+			<college name="安阳工学院" id="1664" />
+			<college name="安阳师范学院" id="1676" />
+			<college name="河南护理职业学院" id="1722" />
+			<college name="安阳职业技术学院" id="1766" />
+			<college name="安阳师范学院人文管理学院" id="1774" />
+		</city>
+		<city name="长垣市" sx="C">
+			<college name="长垣烹饪职业技术学院" id="1769" />
+			<college name="长垣烹饪职业技术学院" id="1795" />
+		</city>
+		<city name="登封市" sx="D">
+			<college name="嵩山少林武术职业学院" id="1760" />
+			<college name="嵩山少林武术职业学院" id="1789" />
+		</city>
+		<city name="鹤壁市" sx="H">
+			<college name="鹤壁职业技术学院" id="1750" />
+			<college name="鹤壁汽车工程职业学院" id="1751" />
+			<college name="鹤壁汽车工程职业学院" id="1804" />
+		</city>
+		<city name="漯河市" sx="H">
+			<college name="漯河医学高等专科学校" id="1697" />
+			<college name="漯河职业技术学院" id="1746" />
+			<college name="漯河食品职业学院" id="1747" />
+			<college name="漯河食品职业学院" id="1794" />
+		</city>
+		<city name="济源市" sx="J">
+			<college name="济源职业技术学院" id="1756" />
+		</city>
+		<city name="焦作市" sx="J">
+			<college name="河南理工大学" id="1656" />
+			<college name="焦作师范高等专科学校" id="1703" />
+			<college name="焦作大学" id="1710" />
+			<college name="河南工业和信息化职业学院" id="1727" />
+			<college name="焦作工贸职业学院" id="1770" />
+			<college name="河南理工大学万方科技学院" id="1771" />
+			<college name="焦作工贸职业学院" id="1796" />
+		</city>
+		<city name="开封市" sx="K">
+			<college name="河南大学" id="1654" />
+			<college name="开封大学" id="1708" />
+			<college name="黄河水利职业技术学院" id="1763" />
+			<college name="开封文化艺术职业学院" id="1768" />
+			<college name="河南大学民生学院" id="1772" />
+		</city>
+		<city name="洛阳市" sx="L">
+			<college name="河南科技大学" id="1655" />
+			<college name="洛阳师范学院" id="1675" />
+			<college name="洛阳理工学院" id="1681" />
+			<college name="河南推拿职业学院" id="1724" />
+			<college name="河南林业职业学院" id="1728" />
+			<college name="洛阳职业技术学院" id="1742" />
+			<college name="洛阳科技职业学院" id="1743" />
+			<college name="洛阳科技职业学院" id="1805" />
+		</city>
+		<city name="南阳市" sx="N">
+			<college name="南阳理工学院" id="1665" />
+			<college name="南阳师范学院" id="1672" />
+			<college name="南阳医学高等专科学校" id="1702" />
+			<college name="河南工业职业技术学院" id="1714" />
+			<college name="南阳职业学院" id="1744" />
+			<college name="南阳农业职业学院" id="1745" />
+			<college name="南阳职业学院" id="1803" />
+		</city>
+		<city name="平顶山" sx="P">
+			<college name="河南城建学院" id="1668" />
+			<college name="平顶山学院" id="1679" />
+			<college name="河南质量工程职业学院" id="1718" />
+			<college name="平顶山工业职业技术学院" id="1755" />
+		</city>
+		<city name="三门峡" sx="S">
+			<college name="三门峡职业技术学院" id="1762" />
+		</city>
+		<city name="商丘市" sx="S">
+			<college name="商丘师范学院" id="1673" />
+			<college name="商丘工学院" id="1689" />
+			<college name="商丘学院" id="1691" />
+			<college name="商丘医学高等专科学校" id="1701" />
+			<college name="商丘职业技术学院" id="1764" />
+			<college name="商丘工学院" id="1782" />
+			<college name="商丘学院" id="1784" />
+		</city>
+		<city name="许昌市" sx="X">
+			<college name="许昌学院" id="1682" />
+			<college name="许昌职业技术学院" id="1752" />
+			<college name="许昌陶瓷职业学院" id="1753" />
+			<college name="许昌电气职业学院" id="1754" />
+			<college name="许昌陶瓷职业学院" id="1799" />
+		</city>
+		<city name="新乡市" sx="X">
+			<college name="河南师范大学" id="1659" />
+			<college name="新乡医学院" id="1670" />
+			<college name="河南科技学院" id="1677" />
+			<college name="新乡学院" id="1683" />
+			<college name="河南机电高等专科学校" id="1698" />
+			<college name="新乡职业技术学院" id="1765" />
+			<college name="新乡医学院三全学院" id="1776" />
+			<college name="河南科技学院新科学院" id="1777" />
+		</city>
+		<city name="信阳市" sx="X">
+			<college name="信阳师范学院" id="1671" />
+			<college name="信阳农林学院" id="1688" />
+			<college name="信阳职业技术学院" id="1757" />
+			<college name="信阳涉外职业技术学院" id="1758" />
+			<college name="信阳师范学院华锐学院" id="1778" />
+			<college name="信阳涉外职业技术学院" id="1801" />
+		</city>
+		<city name="永城市" sx="Y">
+			<college name="永城职业学院" id="1759" />
+		</city>
+		<city name="濮阳市" sx="Y">
+			<college name="濮阳职业技术学院" id="1761" />
+		</city>
+		<city name="周口市" sx="Z">
+			<college name="周口师范学院" id="1674" />
+			<college name="周口职业技术学院" id="1748" />
+			<college name="周口科技职业学院" id="1749" />
+			<college name="周口科技职业学院" id="1792" />
+		</city>
+		<city name="驻马店" sx="Z">
+			<college name="黄淮学院" id="1678" />
+		</city>
+		<city name="驻马店市" sx="Z">
+			<college name="驻马店职业技术学院" id="1767" />
+		</city>
+		<city name="郑州市" sx="Z">
+			<college name="郑州大学" id="1653" />
+			<college name="河南工业大学" id="1657" />
+			<college name="河南农业大学" id="1658" />
+			<college name="河南财经政法大学" id="1660" />
+			<college name="华北水利水电大学" id="1661" />
+			<college name="郑州轻工业学院" id="1662" />
+			<college name="中原工学院" id="1663" />
+			<college name="黄河科技学院" id="1666" />
+			<college name="郑州航空工业管理学院" id="1667" />
+			<college name="河南中医学院" id="1669" />
+			<college name="河南工程学院" id="1680" />
+			<college name="郑州工业应用技术学院" id="1684" />
+			<college name="郑州科技学院" id="1685" />
+			<college name="郑州师范学院" id="1686" />
+			<college name="河南警察学院" id="1687" />
+			<college name="郑州升达经贸管理学院" id="1690" />
+			<college name="郑州成功财经学院" id="1692" />
+			<college name="铁道警察学院" id="1693" />
+			<college name="河南牧业经济学院" id="1694" />
+			<college name="黄河交通学院" id="1695" />
+			<college name="郑州财经学院" id="1696" />
+			<college name="郑州电力高等专科学校" id="1699" />
+			<college name="郑州澍青医学高等专科学校" id="1700" />
+			<college name="河南财政税务高等专科学校" id="1704" />
+			<college name="郑州幼儿师范高等专科学校" id="1705" />
+			<college name="安阳幼儿师范高等专科学校" id="1706" />
+			<college name="河南医学高等专科学校" id="1707" />
+			<college name="中州大学" id="1709" />
+			<college name="河南职业技术学院" id="1711" />
+			<college name="河南司法警官职业学院" id="1712" />
+			<college name="河南工业贸易职业学院" id="1713" />
+			<college name="河南检察职业学院" id="1715" />
+			<college name="河南经贸职业学院" id="1716" />
+			<college name="河南交通职业技术学院" id="1717" />
+			<college name="河南农业职业学院" id="1719" />
+			<college name="河南建筑职业技术学院" id="1720" />
+			<college name="河南化工职业学院" id="1721" />
+			<college name="河南机电职业学院" id="1723" />
+			<college name="河南信息统计职业学院" id="1725" />
+			<college name="河南水利与环境职业学院" id="1726" />
+			<college name="郑州铁路职业技术学院" id="1729" />
+			<college name="郑州职业技术学院" id="1730" />
+			<college name="郑州旅游职业学院" id="1731" />
+			<college name="郑州工业安全职业学院" id="1732" />
+			<college name="郑州电子信息职业技术学院" id="1733" />
+			<college name="郑州电力职业技术学院" id="1734" />
+			<college name="郑州信息科技职业学院" id="1735" />
+			<college name="郑州城市职业学院" id="1736" />
+			<college name="郑州信息工程职业学院" id="1737" />
+			<college name="郑州理工职业学院" id="1738" />
+			<college name="郑州黄河护理职业学院" id="1739" />
+			<college name="郑州商贸旅游职业学院" id="1740" />
+			<college name="郑州财税金融职业学院" id="1741" />
+			<college name="中原工学院信息商务学院" id="1773" />
+			<college name="河南师范大学新联学院" id="1775" />
+			<college name="黄河科技学院" id="1779" />
+			<college name="郑州工业应用技术学院" id="1780" />
+			<college name="郑州科技学院" id="1781" />
+			<college name="郑州升达经贸管理学院" id="1783" />
+			<college name="郑州成功财经学院" id="1785" />
+			<college name="黄河交通学院" id="1786" />
+			<college name="郑州财经学院" id="1787" />
+			<college name="郑州澍青医学高等专科学校" id="1788" />
+			<college name="郑州电子信息职业技术学院" id="1790" />
+			<college name="郑州电力职业技术学院" id="1791" />
+			<college name="郑州城市职业学院" id="1793" />
+			<college name="郑州信息工程职业学院" id="1797" />
+			<college name="郑州理工职业学院" id="1798" />
+			<college name="郑州黄河护理职业学院" id="1800" />
+			<college name="郑州商贸旅游职业学院" id="1802" />
+		</city>
+	</province>
+	<province name="吉林">
+		<city name="白城市" sx="B">
+			<college name="白城师范学院" id="593" />
+			<college name="白城医学高等专科学校" id="605" />
+			<college name="白城职业技术学院" id="622" />
+		</city>
+		<city name="白山市" sx="B">
+			<college name="长白山职业技术学院" id="613" />
+		</city>
+		<city name="长春市" sx="C">
+			<college name="吉林大学" id="574" />
+			<college name="东北师范大学" id="575" />
+			<college name="长春大学" id="578" />
+			<college name="长春理工大学" id="579" />
+			<college name="长春工业大学" id="580" />
+			<college name="吉林农业大学" id="581" />
+			<college name="长春中医药大学" id="582" />
+			<college name="吉林财经大学" id="585" />
+			<college name="吉林建筑大学" id="586" />
+			<college name="长春工程学院" id="587" />
+			<college name="吉林工程技术师范学院" id="591" />
+			<college name="长春师范大学" id="594" />
+			<college name="吉林华桥外国语学院" id="595" />
+			<college name="吉林工商学院" id="596" />
+			<college name="吉林体育学院" id="597" />
+			<college name="吉林艺术学院" id="598" />
+			<college name="吉林动画学院" id="599" />
+			<college name="吉林警察学院" id="600" />
+			<college name="长春建筑学院" id="601" />
+			<college name="长春科技学院" id="602" />
+			<college name="长春光华学院" id="603" />
+			<college name="长春财经学院" id="604" />
+			<college name="长春汽车工业高等专科学校" id="606" />
+			<college name="长春医学高等专科学校" id="607" />
+			<college name="长春金融高等专科学校" id="608" />
+			<college name="吉林交通职业技术学院" id="610" />
+			<college name="长春东方职业学院" id="611" />
+			<college name="吉林司法警官职业学院" id="614" />
+			<college name="长春职业技术学院" id="616" />
+			<college name="长春信息技术职业学院" id="620" />
+			<college name="吉林科技职业技术学院" id="623" />
+			<college name="吉林城市职业技术学院" id="625" />
+			<college name="吉林建筑大学城建学院" id="626" />
+			<college name="长春工业大学人文信息学院" id="627" />
+			<college name="长春理工大学光电信息学院" id="628" />
+			<college name="东北师范大学人文学院" id="629" />
+			<college name="长春大学旅游学院" id="631" />
+			<college name="吉林动画学院" id="632" />
+			<college name="吉林华桥外国语学院" id="633" />
+			<college name="长春建筑学院" id="634" />
+			<college name="长春科技学院" id="635" />
+			<college name="长春光华学院" id="636" />
+			<college name="长春财经学院" id="637" />
+			<college name="长春东方职业学院" id="638" />
+			<college name="吉林对外经贸职业学院" id="639" />
+			<college name="长春信息技术职业学院" id="640" />
+			<college name="吉林科技职业技术学院" id="641" />
+			<college name="吉林城市职业技术学院" id="642" />
+		</city>
+		<city name="吉林市" sx="J">
+			<college name="北华大学" id="577" />
+			<college name="东北电力大学" id="584" />
+			<college name="吉林化工学院" id="588" />
+			<college name="吉林农业科技学院" id="589" />
+			<college name="吉林医药学院" id="590" />
+			<college name="吉林工业职业技术学院" id="618" />
+			<college name="吉林电子信息职业技术学院" id="619" />
+			<college name="吉林铁道职业技术学院" id="621" />
+		</city>
+		<city name="辽源市" sx="L">
+			<college name="辽源职业技术学院" id="612" />
+		</city>
+		<city name="四平市" sx="S">
+			<college name="吉林师范大学" id="583" />
+			<college name="四平职业大学" id="609" />
+			<college name="吉林工程职业学院" id="617" />
+			<college name="吉林师范大学博达学院" id="630" />
+		</city>
+		<city name="松原市" sx="S">
+			<college name="松原职业技术学院" id="615" />
+		</city>
+		<city name="通化市" sx="T">
+			<college name="通化师范学院" id="592" />
+		</city>
+		<city name="延边市" sx="Y">
+			<college name="延边职业技术学院" id="624" />
+		</city>
+		<city name="延吉市" sx="Y">
+			<college name="延边大学" id="576" />
+		</city>
+	</province>
+	<province name="河北">
+		<city name="保定市" sx="B">
+			<college name="河北大学" id="158" />
+			<college name="河北农业大学" id="165" />
+			<college name="中央司法警官学院" id="170" />
+			<college name="河北金融学院" id="180" />
+			<college name="保定学院" id="185" />
+			<college name="河北科技学院" id="193" />
+			<college name="河北软件职业技术学院" id="207" />
+			<college name="河北工艺美术职业学院" id="208" />
+			<college name="保定职业技术学院" id="235" />
+			<college name="保定电力职业技术学院" id="236" />
+			<college name="华北电力大学科技学院" id="261" />
+			<college name="河北大学工商学院" id="263" />
+			<college name="河北农业大学现代科技学院" id="271" />
+			<college name="中国地质大学长城学院" id="273" />
+			<college name="河北科技学院" id="277" />
+		</city>
+		<city name="泊头市" sx="B">
+			<college name="泊头职业学院" id="256" />
+		</city>
+		<city name="承德市" sx="C">
+			<college name="承德医学院" id="176" />
+			<college name="河北民族师范学院" id="191" />
+			<college name="河北旅游职业学院" id="218" />
+			<college name="承德石油高等专科学校" id="239" />
+			<college name="承德护理职业学院" id="240" />
+		</city>
+		<city name="沧州市" sx="C">
+			<college name="沧州师范学院" id="192" />
+			<college name="河北工程技术高等专科学校" id="199" />
+			<college name="沧州医学高等专科学校" id="237" />
+			<college name="沧州职业技术学院" id="238" />
+		</city>
+		<city name="定州市" sx="D">
+			<college name="冀中职业学院" id="252" />
+		</city>
+		<city name="秦皇岛" sx="Q">
+			<college name="渤海石油职业学院" id="253" />
+			<college name="燕山大学" id="160" />
+			<college name="河北科技师范学院" id="177" />
+			<college name="河北建材职业技术学院" id="206" />
+			<college name="河北外国语职业学院" id="209" />
+			<college name="秦皇岛职业技术学院" id="258" />
+			<college name="燕山大学里仁学院" id="268" />
+		</city>
+		<city name="邯郸市" sx="H">
+			<college name="河北工程大学" id="164" />
+			<college name="邯郸学院" id="188" />
+			<college name="河北劳动关系职业学院" id="212" />
+			<college name="河北司法警官职业学院" id="213" />
+			<college name="邯郸职业技术学院" id="250" />
+			<college name="河北工程大学科信学院" id="260" />
+		</city>
+		<city name="黄骅市" sx="H">
+			<college name="渤海理工职业学院" id="254" />
+			<college name="北京交通大学海滨学院" id="275" />
+			<college name="渤海理工职业学院" id="293" />
+		</city>
+		<city name="衡水市" sx="H">
+			<college name="衡水学院" id="186" />
+			<college name="衡水职业技术学院" id="257" />
+		</city>
+		<city name="廊坊市" sx="L">
+			<college name="中国人民武装警察部队学院" id="169" />
+			<college name="北华航天工业学院" id="174" />
+			<college name="廊坊师范学院" id="178" />
+			<college name="河北石油职业技术学院" id="215" />
+			<college name="廊坊职业技术学院" id="244" />
+			<college name="廊坊东方职业技术学院" id="245" />
+			<college name="廊坊燕京职业技术学院" id="246" />
+			<college name="廊坊卫生职业学院" id="247" />
+			<college name="北京中医药大学东方学院" id="274" />
+			<college name="廊坊东方职业技术学院" id="291" />
+		</city>
+		<city name="三河市" sx="S">
+			<college name="防灾科技学院" id="171" />
+			<college name="华北科技学院" id="172" />
+		</city>
+		<city name="石家庄" sx="S">
+			<college name="石家庄铁道大学" id="161" />
+			<college name="河北科技大学" id="163" />
+			<college name="河北医科大学" id="166" />
+			<college name="河北师范大学" id="167" />
+			<college name="河北经贸大学" id="168" />
+			<college name="石家庄经济学院" id="175" />
+			<college name="河北体育学院" id="181" />
+			<college name="河北传媒学院" id="182" />
+			<college name="河北美术学院" id="183" />
+			<college name="石家庄学院" id="184" />
+			<college name="河北外国语学院" id="194" />
+			<college name="河北中医学院" id="195" />
+			<college name="河北工程技术学院" id="198" />
+			<college name="石家庄幼儿师范高等专科学校" id="200" />
+			<college name="河北化工医药职业技术学院" id="202" />
+			<college name="河北工业职业技术学院" id="204" />
+			<college name="河北女子职业技术学院" id="205" />
+			<college name="河北政法职业学院" id="210" />
+			<college name="河北公安警察职业学院" id="214" />
+			<college name="河北交通职业技术学院" id="216" />
+			<college name="河北轨道运输职业技术学院" id="217" />
+			<college name="河北艺术职业学院" id="219" />
+			<college name="石家庄财经职业学院" id="220" />
+			<college name="石家庄经济职业学院" id="221" />
+			<college name="石家庄科技信息职业学院" id="222" />
+			<college name="石家庄信息工程职业学院" id="223" />
+			<college name="石家庄人民医学高等专科学校" id="224" />
+			<college name="石家庄医学高等专科学校" id="225" />
+			<college name="石家庄铁路职业技术学院" id="226" />
+			<college name="石家庄职业技术学院" id="227" />
+			<college name="石家庄邮电职业技术学院" id="228" />
+			<college name="石家庄工程职业学院" id="229" />
+			<college name="石家庄工商职业学院" id="230" />
+			<college name="石家庄科技职业学院" id="231" />
+			<college name="石家庄科技工程职业学院" id="232" />
+			<college name="石家庄城市经济职业学院" id="233" />
+			<college name="石家庄理工职业学院" id="234" />
+			<college name="河北科技大学理工学院" id="262" />
+			<college name="河北师范大学汇华学院" id="264" />
+			<college name="河北医科大学临床学院" id="265" />
+			<college name="河北经贸大学经济管理学院" id="266" />
+			<college name="石家庄铁道大学四方学院" id="269" />
+			<college name="石家庄经济学院华信学院" id="270" />
+			<college name="河北传媒学院" id="276" />
+			<college name="河北美术学院" id="278" />
+			<college name="河北外国语学院" id="279" />
+			<college name="河北工程技术学院" id="281" />
+			<college name="石家庄医学高等专科学校" id="282" />
+			<college name="石家庄工程职业学院" id="283" />
+			<college name="石家庄财经职业学院" id="284" />
+			<college name="石家庄科技信息职业学院" id="285" />
+			<college name="石家庄城市经济职业学院" id="286" />
+			<college name="石家庄工商职业学院" id="287" />
+			<college name="石家庄经济职业学院" id="288" />
+			<college name="石家庄人民医学高等专科学校" id="289" />
+			<college name="石家庄科技职业学院" id="290" />
+			<college name="石家庄理工职业学院" id="292" />
+		</city>
+		<city name="唐山市" sx="T">
+			<college name="华北理工大学" id="162" />
+			<college name="唐山师范学院" id="179" />
+			<college name="唐山学院" id="187" />
+			<college name="河北能源职业技术学院" id="203" />
+			<college name="唐山科技职业技术学院" id="241" />
+			<college name="唐山工业职业技术学院" id="242" />
+			<college name="唐山职业技术学院" id="243" />
+			<college name="华北理工大学轻工学院" id="259" />
+			<college name="河北联合大学冀唐学院" id="272" />
+		</city>
+		<city name="邢台市" sx="X">
+			<college name="邢台学院" id="189" />
+			<college name="河北机电职业技术学院" id="211" />
+			<college name="邢台医学高等专科学校" id="248" />
+			<college name="邢台职业技术学院" id="249" />
+		</city>
+		<city name="张家口" sx="Z">
+			<college name="河北建筑工程学院" id="173" />
+			<college name="河北北方学院" id="190" />
+			<college name="张家口学院" id="196" />
+			<college name="张家口职业技术学院" id="251" />
+			<college name="宣化科技职业学院" id="255" />
+		</city>
+		<city name="涿州市" sx="Z">
+			<college name="保定幼儿师范高等专科学校" id="201" />
+		</city>
+	</province>
+	<province name="广西">
+		<city name="北海市" sx="B">
+			<college name="北海艺术设计学院" id="2285" />
+			<college name="北海职业学院" id="2316" />
+			<college name="北京航空航天大学北海学院" id="2331" />
+			<college name="北海艺术设计学院" id="2334" />
+		</city>
+		<city name="百色市" sx="B">
+			<college name="右江民族医学院" id="2271" />
+			<college name="百色学院" id="2279" />
+			<college name="广西工程职业学院" id="2308" />
+			<college name="百色职业学院" id="2317" />
+			<college name="广西培贤国际职业学院" id="2322" />
+			<college name="广西工程职业学院" id="2339" />
+			<college name="广西培贤国际职业学院" id="2343" />
+		</city>
+		<city name="崇左市" sx="C">
+			<college name="广西民族师范学院" id="2277" />
+			<college name="广西理工职业技术学院" id="2309" />
+			<college name="广西理工职业技术学院" id="2342" />
+		</city>
+		<city name="扶绥县" sx="F">
+			<college name="广西城市职业学院" id="2301" />
+			<college name="广西城市职业学院" id="2336" />
+		</city>
+		<city name="桂林市" sx="G">
+			<college name="桂林电子科技大学" id="2263" />
+			<college name="广西师范大学" id="2265" />
+			<college name="桂林理工大学" id="2267" />
+			<college name="桂林医学院" id="2270" />
+			<college name="桂林航天工业学院" id="2273" />
+			<college name="桂林师范高等专科学校" id="2287" />
+			<college name="桂林旅游高等专科学校" id="2288" />
+			<college name="桂林山水职业学院" id="2318" />
+			<college name="广西师范大学漓江学院" id="2323" />
+			<college name="桂林电子科技大学信息科技学院" id="2324" />
+			<college name="桂林理工大学博文管理学院" id="2325" />
+			<college name="桂林山水职业学院" id="2335" />
+		</city>
+		<city name="河池市" sx="H">
+			<college name="广西现代职业技术学院" id="2312" />
+		</city>
+		<city name="贺州市" sx="H">
+			<college name="贺州学院" id="2282" />
+		</city>
+		<city name="柳州市" sx="L">
+			<college name="广西科技大学" id="2269" />
+			<college name="柳州师范高等专科学校" id="2286" />
+			<college name="广西生态工程职业技术学院" id="2295" />
+			<college name="柳州职业技术学院" id="2313" />
+			<college name="柳州城市职业学院" id="2314" />
+			<college name="柳州铁道职业技术学院" id="2315" />
+			<college name="广西科技大学鹿山学院" id="2326" />
+		</city>
+		<city name="南宁市" sx="N">
+			<college name="广西大学" id="2262" />
+			<college name="广西医科大学" id="2264" />
+			<college name="广西民族大学" id="2266" />
+			<college name="广西中医药大学" id="2268" />
+			<college name="广西师范学院" id="2272" />
+			<college name="广西财经学院" id="2275" />
+			<college name="广西艺术学院" id="2276" />
+			<college name="广西外国语学院" id="2278" />
+			<college name="南宁学院" id="2284" />
+			<college name="广西幼儿师范高等专科学校" id="2289" />
+			<college name="广西警官高等专科学校" id="2290" />
+			<college name="广西体育高等专科学校" id="2291" />
+			<college name="广西机电职业技术学院" id="2292" />
+			<college name="广西职业技术学院" id="2293" />
+			<college name="广西国际商务职业技术学院" id="2294" />
+			<college name="广西农业职业技术学院" id="2296" />
+			<college name="广西电力职业技术学院" id="2297" />
+			<college name="广西交通职业技术学院" id="2298" />
+			<college name="广西水利电力职业技术学院" id="2299" />
+			<college name="广西经贸职业技术学院" id="2300" />
+			<college name="广西工业职业技术学院" id="2302" />
+			<college name="广西工商职业技术学院" id="2303" />
+			<college name="广西建设职业技术学院" id="2304" />
+			<college name="广西经济职业学院" id="2305" />
+			<college name="广西演艺职业学院" id="2306" />
+			<college name="广西科技职业学院" id="2310" />
+			<college name="广西卫生职业技术学院" id="2311" />
+			<college name="南宁职业技术学院" id="2319" />
+			<college name="广西金融职业技术学院" id="2320" />
+			<college name="广西师范学院师园学院" id="2327" />
+			<college name="广西民族大学相思湖学院" id="2328" />
+			<college name="广西大学行健文理学院" id="2329" />
+			<college name="广西中医学院赛恩斯新医药学院" id="2330" />
+			<college name="广西外国语学院" id="2332" />
+			<college name="南宁学院" id="2333" />
+			<college name="广西演艺职业学院" id="2337" />
+			<college name="广西经济职业学院" id="2340" />
+		</city>
+		<city name="钦州市" sx="Q">
+			<college name="钦州学院" id="2281" />
+			<college name="广西英华国际职业学院" id="2307" />
+			<college name="广西英华国际职业学院" id="2338" />
+		</city>
+		<city name="梧州市" sx="W">
+			<college name="梧州学院" id="2283" />
+			<college name="梧州职业学院" id="2321" />
+			<college name="梧州职业学院" id="2341" />
+		</city>
+		<city name="玉林市" sx="Y">
+			<college name="玉林师范学院" id="2274" />
+		</city>
+		<city name="宜州市" sx="Y">
+			<college name="河池学院" id="2280" />
+		</city>
+	</province>
+	<province name="北京">
+		<city name="北京市" sx="B">
+			<college name="北京大学" id="1" />
+			<college name="中国人民大学" id="2" />
+			<college name="清华大学" id="3" />
+			<college name="北京交通大学" id="4" />
+			<college name="北京科技大学" id="5" />
+			<college name="中国石油大学（北京）" id="6" />
+			<college name="中国矿业大学（北京）" id="7" />
+			<college name="中国地质大学（北京）" id="8" />
+			<college name="北京邮电大学" id="9" />
+			<college name="华北电力大学" id="10" />
+			<college name="北京化工大学" id="11" />
+			<college name="中国农业大学" id="12" />
+			<college name="中国科学院大学" id="13" />
+			<college name="北京林业大学" id="14" />
+			<college name="北京中医药大学" id="15" />
+			<college name="北京师范大学" id="16" />
+			<college name="北京外国语大学" id="17" />
+			<college name="北京语言大学" id="18" />
+			<college name="对外经济贸易大学" id="19" />
+			<college name="中央财经大学" id="20" />
+			<college name="中国政法大学" id="21" />
+			<college name="中央民族大学" id="22" />
+			<college name="中国人民公安大学" id="23" />
+			<college name="北京协和医学院" id="24" />
+			<college name="北京体育大学" id="25" />
+			<college name="北京理工大学" id="26" />
+			<college name="北京航空航天大学" id="27" />
+			<college name="北京信息科技大学" id="28" />
+			<college name="北京工商大学" id="29" />
+			<college name="北京联合大学" id="30" />
+			<college name="北京工业大学" id="31" />
+			<college name="北方工业大学" id="32" />
+			<college name="首都医科大学" id="33" />
+			<college name="首都师范大学" id="34" />
+			<college name="首都经济贸易大学" id="35" />
+			<college name="中国传媒大学" id="36" />
+			<college name="国际关系学院" id="37" />
+			<college name="中央美术学院" id="38" />
+			<college name="中央戏剧学院" id="39" />
+			<college name="中央音乐学院" id="40" />
+			<college name="北京电子科技学院" id="41" />
+			<college name="外交学院" id="42" />
+			<college name="中国劳动关系学院" id="43" />
+			<college name="中国青年政治学院" id="44" />
+			<college name="中华女子学院" id="45" />
+			<college name="北京建筑大学" id="46" />
+			<college name="北京服装学院" id="47" />
+			<college name="北京印刷学院" id="48" />
+			<college name="北京石油化工学院" id="49" />
+			<college name="首钢工学院" id="50" />
+			<college name="北京农学院" id="51" />
+			<college name="首都体育学院" id="52" />
+			<college name="北京第二外国语学院" id="53" />
+			<college name="北京物资学院" id="54" />
+			<college name="北京警察学院" id="55" />
+			<college name="中国音乐学院" id="56" />
+			<college name="北京舞蹈学院" id="57" />
+			<college name="中国戏曲学院" id="58" />
+			<college name="北京电影学院" id="59" />
+			<college name="北京城市学院" id="60" />
+			<college name="北京吉利学院" id="61" />
+			<college name="北京青年政治学院" id="62" />
+			<college name="北京工业职业技术学院" id="63" />
+			<college name="北京科技经营管理学院" id="64" />
+			<college name="北京电子科技职业学院" id="65" />
+			<college name="北京信息职业技术学院" id="66" />
+			<college name="北京经济技术职业学院" id="67" />
+			<college name="北京社会管理职业学院" id="68" />
+			<college name="北京农业职业学院" id="69" />
+			<college name="北京科技职业学院" id="70" />
+			<college name="北京北大方正软件职业技术学院" id="71" />
+			<college name="北京现代职业技术学院" id="72" />
+			<college name="北京经济管理职业学院" id="73" />
+			<college name="北京财贸职业学院" id="74" />
+			<college name="北京政法职业学院" id="75" />
+			<college name="北京交通职业技术学院" id="76" />
+			<college name="北京艺术传媒职业学院" id="77" />
+			<college name="北京汇佳职业学院" id="78" />
+			<college name="北京培黎职业学院" id="79" />
+			<college name="北京戏曲艺术职业学院" id="80" />
+			<college name="北京京北职业技术学院" id="81" />
+			<college name="北京劳动保障职业学院" id="82" />
+			<college name="北京体育职业学院" id="83" />
+			<college name="北京经贸职业学院" id="84" />
+			<college name="北京交通运输职业学院" id="85" />
+			<college name="北京卫生职业学院" id="86" />
+			<college name="北京第二外国语学院中瑞酒店管理学院" id="87" />
+			<college name="首都师范大学科德学院" id="88" />
+			<college name="北京工业大学耿丹学院" id="89" />
+			<college name="北京邮电大学世纪学院" id="90" />
+			<college name="北京工商大学嘉华学院" id="91" />
+			<college name="北京城市学院" id="92" />
+			<college name="北京吉利学院" id="93" />
+			<college name="北京科技经营管理学院" id="94" />
+			<college name="北京经济技术职业学院" id="95" />
+			<college name="北京经贸职业学院" id="96" />
+			<college name="北京汇佳职业学院" id="97" />
+			<college name="北京科技职业学院" id="98" />
+			<college name="北京培黎职业学院" id="99" />
+			<college name="北京北大方正软件职业技术学院" id="100" />
+			<college name="北京艺术传媒职业学院" id="101" />
+			<college name="燕京理工学院" id="197" />
+			<college name="燕京理工学院" id="280" />
+		</city>
+	</province>
+	<province name="云南">
+		<city name="保山市" sx="B">
+			<college name="保山学院" id="2652" />
+			<college name="保山中医药高等专科学校" id="2658" />
+		</city>
+		<city name="楚雄市" sx="C">
+			<college name="楚雄师范学院" id="2643" />
+			<college name="楚雄医药高等专科学校" id="2659" />
+		</city>
+		<city name="楚雄州" sx="C">
+			<college name="云南现代职业技术学院" id="2683" />
+			<college name="云南现代职业技术学院" id="2712" />
+		</city>
+		<city name="德宏州" sx="D">
+			<college name="德宏职业学院" id="2690" />
+		</city>
+		<city name="大理市" sx="D">
+			<college name="大理学院" id="2649" />
+			<college name="大理农林职业技术学院" id="2692" />
+		</city>
+		<city name="个旧市" sx="G">
+			<college name="云南锡业职业技术学院" id="2677" />
+		</city>
+		<city name="红河州" sx="H">
+			<college name="红河卫生职业学院" id="2691" />
+		</city>
+		<city name="景洪市" sx="J">
+			<college name="西双版纳职业技术学院" id="2688" />
+		</city>
+		<city name="昆明市" sx="K">
+			<college name="云南大学" id="2633" />
+			<college name="昆明理工大学" id="2634" />
+			<college name="云南农业大学" id="2635" />
+			<college name="云南师范大学" id="2636" />
+			<college name="云南财经大学" id="2637" />
+			<college name="云南民族大学" id="2638" />
+			<college name="西南林业大学" id="2639" />
+			<college name="昆明医科大学" id="2640" />
+			<college name="云南中医学院" id="2641" />
+			<college name="云南警官学院" id="2646" />
+			<college name="云南艺术学院" id="2647" />
+			<college name="云南工商学院" id="2648" />
+			<college name="昆明学院" id="2650" />
+			<college name="云南经济管理学院" id="2655" />
+			<college name="昆明冶金高等专科学校" id="2656" />
+			<college name="云南科技信息职业学院" id="2664" />
+			<college name="云南国土资源职业学院" id="2665" />
+			<college name="云南新兴职业学院" id="2666" />
+			<college name="云南农业职业技术学院" id="2667" />
+			<college name="云南交通职业技术学院" id="2668" />
+			<college name="云南文化艺术职业学院" id="2669" />
+			<college name="云南城市建设职业学院" id="2670" />
+			<college name="云南机电职业技术学院" id="2671" />
+			<college name="云南林业职业技术学院" id="2672" />
+			<college name="云南国防工业职业技术学院" id="2674" />
+			<college name="云南司法警官职业学院" id="2675" />
+			<college name="云南体育运动职业技术学院" id="2676" />
+			<college name="云南经贸外事职业学院" id="2678" />
+			<college name="云南商务职业学院" id="2680" />
+			<college name="云南外事外语职业学院" id="2681" />
+			<college name="云南旅游职业学院" id="2682" />
+			<college name="昆明工业职业技术学院" id="2684" />
+			<college name="云南工程职业学院" id="2685" />
+			<college name="昆明艺术职业学院" id="2686" />
+			<college name="昆明卫生职业学院" id="2687" />
+			<college name="云南大学滇池学院" id="2693" />
+			<college name="云南师范大学商学院" id="2694" />
+			<college name="昆明医学院海源学院" id="2696" />
+			<college name="云南艺术学院文华学院" id="2697" />
+			<college name="云南师范大学文理学院" id="2698" />
+			<college name="昆明理工大学津桥学院" id="2699" />
+			<college name="云南工商学院" id="2700" />
+			<college name="云南经济管理学院" id="2701" />
+			<college name="云南科技信息职业学院" id="2702" />
+			<college name="昆明艺术职业学院" id="2703" />
+			<college name="云南新兴职业学院" id="2704" />
+			<college name="云南工程职业学院" id="2705" />
+			<college name="云南城市建设职业学院" id="2706" />
+			<college name="云南经贸外事职业学院" id="2707" />
+			<college name="云南商务职业学院" id="2709" />
+			<college name="云南外事外语职业学院" id="2710" />
+			<college name="昆明卫生职业学院" id="2711" />
+		</city>
+		<city name="临沧市" sx="L">
+			<college name="临沧师范高等专科学校" id="2660" />
+		</city>
+		<city name="丽江市" sx="L">
+			<college name="丽江师范高等专科学校" id="2662" />
+			<college name="云南大学旅游文化学院" id="2695" />
+		</city>
+		<city name="芒市" sx="M">
+			<college name="德宏师范高等专科学校" id="2661" />
+		</city>
+		<city name="蒙自市" sx="M">
+			<college name="红河学院" id="2642" />
+		</city>
+		<city name="普洱市" sx="P">
+			<college name="普洱学院" id="2654" />
+			<college name="云南热带作物职业学院" id="2673" />
+		</city>
+		<city name="曲靖市" sx="Q">
+			<college name="曲靖师范学院" id="2645" />
+			<college name="曲靖医学高等专科学校" id="2657" />
+			<college name="云南能源职业技术学院" id="2663" />
+		</city>
+		<city name="文山市" sx="W">
+			<college name="文山学院" id="2651" />
+		</city>
+		<city name="文山县" sx="W">
+			<college name="云南三鑫职业技术学院" id="2679" />
+			<college name="云南三鑫职业技术学院" id="2708" />
+		</city>
+		<city name="玉溪市" sx="Y">
+			<college name="玉溪师范学院" id="2644" />
+			<college name="玉溪农业职业技术学院" id="2689" />
+		</city>
+		<city name="昭通市" sx="Z">
+			<college name="昭通学院" id="2653" />
+		</city>
+	</province>
+	<province name="甘肃">
+		<city name="白银市" sx="B">
+			<college name="白银矿冶职业技术学院" id="2864" />
+		</city>
+		<city name="成县" sx="C">
+			<college name="陇南师范高等专科学校" id="2846" />
+		</city>
+		<city name="定西市" sx="D">
+			<college name="定西师范高等专科学校" id="2847" />
+		</city>
+		<city name="甘南州" sx="G">
+			<college name="甘肃民族师范学院" id="2842" />
+		</city>
+		<city name="金昌市" sx="J">
+			<college name="甘肃有色冶金职业技术学院" id="2858" />
+		</city>
+		<city name="酒泉市" sx="J">
+			<college name="酒泉职业技术学院" id="2863" />
+		</city>
+		<city name="嘉峪关" sx="J">
+			<college name="甘肃钢铁职业技术学院" id="2855" />
+		</city>
+		<city name="兰州市" sx="L">
+			<college name="兰州大学" id="2829" />
+			<college name="西北民族大学" id="2830" />
+			<college name="兰州理工大学" id="2831" />
+			<college name="兰州交通大学" id="2832" />
+			<college name="甘肃农业大学" id="2833" />
+			<college name="西北师范大学" id="2834" />
+			<college name="甘肃中医学院" id="2835" />
+			<college name="兰州商学院" id="2838" />
+			<college name="甘肃政法学院" id="2839" />
+			<college name="兰州城市学院" id="2840" />
+			<college name="兰州工业学院" id="2843" />
+			<college name="兰州文理学院" id="2844" />
+			<college name="兰州职业技术学院" id="2848" />
+			<college name="甘肃交通职业技术学院" id="2849" />
+			<college name="甘肃警察职业学院" id="2851" />
+			<college name="甘肃建筑职业技术学院" id="2852" />
+			<college name="甘肃农业职业技术学院" id="2856" />
+			<college name="兰州石化职业技术学院" id="2859" />
+			<college name="兰州外语职业学院" id="2860" />
+			<college name="兰州资源环境职业技术学院" id="2861" />
+			<college name="甘肃卫生职业学院" id="2865" />
+			<college name="兰州科技职业学院" id="2866" />
+			<college name="西北师范大学知行学院" id="2867" />
+			<college name="兰州商学院陇桥学院" id="2868" />
+			<college name="兰州交通大学博文学院" id="2869" />
+			<college name="兰州商学院长青学院" id="2870" />
+			<college name="兰州理工大学技术工程学院" id="2871" />
+			<college name="兰州外语职业学院" id="2872" />
+			<college name="兰州科技职业学院" id="2873" />
+		</city>
+		<city name="平凉市" sx="P">
+			<college name="平凉医学高等专科学校" id="2845" />
+		</city>
+		<city name="庆阳市" sx="Q">
+			<college name="陇东学院" id="2836" />
+		</city>
+		<city name="天水市" sx="T">
+			<college name="天水师范学院" id="2837" />
+			<college name="甘肃工业职业技术学院" id="2850" />
+			<college name="甘肃林业职业技术学院" id="2853" />
+			<college name="甘肃机电职业技术学院" id="2857" />
+		</city>
+		<city name="武威市" sx="W">
+			<college name="甘肃畜牧工程职业技术学院" id="2854" />
+			<college name="武威职业学院" id="2862" />
+		</city>
+		<city name="张掖市" sx="Z">
+			<college name="河西学院" id="2841" />
+		</city>
+	</province>
+	<province name="山东">
+		<city name="滨州市" sx="B">
+			<college name="滨州医学院" id="1506" />
+			<college name="滨州学院" id="1520" />
+			<college name="滨州职业学院" id="1601" />
+		</city>
+		<city name="单县" sx="D">
+			<college name="菏泽家政职业学院" id="1609" />
+		</city>
+		<city name="东营市" sx="D">
+			<college name="东营科技职业学院" id="1572" />
+			<college name="山东胜利职业学院" id="1575" />
+			<college name="东营职业学院" id="1594" />
+			<college name="中国石油大学胜利学院" id="1614" />
+			<college name="东营科技职业学院" id="1649" />
+		</city>
+		<city name="德州市" sx="D">
+			<college name="德州学院" id="1511" />
+			<college name="山东华宇工学院" id="1536" />
+			<college name="德州科技职业学院" id="1602" />
+			<college name="德州职业技术学院" id="1606" />
+			<college name="山东华宇工学院" id="1634" />
+			<college name="德州科技职业学院" id="1638" />
+		</city>
+		<city name="菏泽市" sx="H">
+			<college name="菏泽学院" id="1517" />
+			<college name="菏泽医学专科学校" id="1541" />
+			<college name="菏泽职业学院" id="1608" />
+		</city>
+		<city name="济南市" sx="J">
+			<college name="山东大学" id="1483" />
+			<college name="济南大学" id="1493" />
+			<college name="山东建筑大学" id="1494" />
+			<college name="山东中医药大学" id="1496" />
+			<college name="山东师范大学" id="1497" />
+			<college name="山东财经大学" id="1501" />
+			<college name="齐鲁工业大学" id="1502" />
+			<college name="山东交通学院" id="1503" />
+			<college name="山东政法学院" id="1509" />
+			<college name="山东警察学院" id="1513" />
+			<college name="山东体育学院" id="1514" />
+			<college name="山东艺术学院" id="1515" />
+			<college name="山东工艺美术学院" id="1516" />
+			<college name="山东英才学院" id="1526" />
+			<college name="齐鲁师范学院" id="1527" />
+			<college name="山东青年政治学院" id="1528" />
+			<college name="山东女子学院" id="1529" />
+			<college name="山东协和学院" id="1530" />
+			<college name="山东管理学院" id="1533" />
+			<college name="山东农业工程学院" id="1534" />
+			<college name="山东电力高等专科学校" id="1540" />
+			<college name="济南幼儿师范高等专科学校" id="1543" />
+			<college name="山东商业职业技术学院" id="1546" />
+			<college name="山东劳动职业技术学院" id="1547" />
+			<college name="山东力明科技职业学院" id="1548" />
+			<college name="山东职业学院" id="1551" />
+			<college name="山东城市建设职业学院" id="1553" />
+			<college name="山东司法警官职业学院" id="1554" />
+			<college name="山东旅游职业学院" id="1556" />
+			<college name="山东电子职业技术学院" id="1559" />
+			<college name="山东现代职业学院" id="1566" />
+			<college name="山东圣翰财贸职业学院" id="1568" />
+			<college name="山东杏林科技职业学院" id="1569" />
+			<college name="山东凯文科技职业学院" id="1571" />
+			<college name="山东传媒职业学院" id="1573" />
+			<college name="山东艺术设计职业学院" id="1578" />
+			<college name="济南职业学院" id="1579" />
+			<college name="济南工程职业技术学院" id="1580" />
+			<college name="济南护理职业学院" id="1581" />
+			<college name="山东经济学院燕山学院" id="1618" />
+			<college name="山东师范大学历山学院" id="1621" />
+			<college name="山东英才学院" id="1629" />
+			<college name="山东协和学院" id="1630" />
+			<college name="山东力明科技职业学院" id="1637" />
+			<college name="山东现代职业学院" id="1643" />
+			<college name="山东圣翰财贸职业学院" id="1644" />
+			<college name="山东杏林科技职业学院" id="1645" />
+			<college name="山东凯文科技职业学院" id="1647" />
+			<college name="山东艺术设计职业学院" id="1652" />
+		</city>
+		<city name="济宁市" sx="J">
+			<college name="济宁医学院" id="1507" />
+			<college name="济宁学院" id="1523" />
+			<college name="山东理工职业学院" id="1570" />
+			<college name="济宁职业技术学院" id="1589" />
+		</city>
+		<city name="聊城市" sx="L">
+			<college name="聊城大学" id="1489" />
+			<college name="聊城职业技术学院" id="1593" />
+			<college name="聊城大学东昌学院" id="1622" />
+		</city>
+		<city name="莱芜市" sx="L">
+			<college name="莱芜职业技术学院" id="1588" />
+		</city>
+		<city name="临沂市" sx="L">
+			<college name="临沂大学" id="1508" />
+			<college name="山东医学高等专科学校" id="1542" />
+			<college name="临沂职业学院" id="1611" />
+		</city>
+		<city name="莱阳市" sx="L">
+			<college name="青岛农业大学海都学院" id="1619" />
+		</city>
+		<city name="蓬莱市" sx="P">
+			<college name="济南大学泉城学院" id="1623" />
+		</city>
+		<city name="青岛市" sx="Q">
+			<college name="中国海洋大学" id="1484" />
+			<college name="中国石油大学(华东)" id="1485" />
+			<college name="青岛大学" id="1486" />
+			<college name="山东科技大学" id="1487" />
+			<college name="青岛科技大学" id="1491" />
+			<college name="青岛理工大学" id="1492" />
+			<college name="青岛农业大学" id="1500" />
+			<college name="青岛滨海学院" id="1518" />
+			<college name="青岛黄海学院" id="1531" />
+			<college name="青岛工学院" id="1532" />
+			<college name="青岛恒星科技学院" id="1535" />
+			<college name="山东外贸职业学院" id="1565" />
+			<college name="青岛职业技术学院" id="1582" />
+			<college name="青岛求实职业技术学院" id="1583" />
+			<college name="青岛港湾职业技术学院" id="1584" />
+			<college name="青岛飞洋职业技术学院" id="1585" />
+			<college name="青岛酒店管理职业技术学院" id="1586" />
+			<college name="青岛远洋船员职业学院" id="1587" />
+			<college name="青岛理工大学琴岛学院" id="1616" />
+			<college name="北京电影学院现代创意媒体学院" id="1624" />
+			<college name="青岛滨海学院" id="1625" />
+			<college name="青岛黄海学院" id="1631" />
+			<college name="青岛工学院" id="1632" />
+			<college name="青岛恒星科技学院" id="1633" />
+			<college name="青岛求实职业技术学院" id="1639" />
+			<college name="青岛飞洋职业技术学院" id="1642" />
+		</city>
+		<city name="曲阜市" sx="Q">
+			<college name="曲阜师范大学" id="1498" />
+			<college name="齐鲁理工学院" id="1537" />
+			<college name="曲阜远东职业技术学院" id="1590" />
+			<college name="齐鲁理工学院" id="1635" />
+			<college name="曲阜远东职业技术学院" id="1636" />
+		</city>
+		<city name="日照市" sx="R">
+			<college name="山东水利职业学院" id="1544" />
+			<college name="山东外国语职业学院" id="1558" />
+			<college name="日照职业技术学院" id="1592" />
+			<college name="山东外国语职业学院" id="1641" />
+		</city>
+		<city name="泰安市" sx="T">
+			<college name="山东农业大学" id="1495" />
+			<college name="泰山医学院" id="1505" />
+			<college name="泰山学院" id="1522" />
+			<college name="山东服装职业学院" id="1549" />
+			<college name="泰山职业技术学院" id="1603" />
+			<college name="泰山护理职业学院" id="1612" />
+			<college name="山东科技大学泰山科技学院" id="1617" />
+			<college name="山东财经大学东方学院" id="1620" />
+		</city>
+		<city name="潍坊市" sx="W">
+			<college name="潍坊医学院" id="1504" />
+			<college name="潍坊学院" id="1510" />
+			<college name="潍坊科技学院" id="1525" />
+			<college name="山东畜牧兽医职业学院" id="1545" />
+			<college name="山东科技职业学院" id="1550" />
+			<college name="山东交通职业学院" id="1563" />
+			<college name="山东信息职业技术学院" id="1564" />
+			<college name="山东经贸职业学院" id="1567" />
+			<college name="山东海事职业学院" id="1574" />
+			<college name="潍坊职业学院" id="1595" />
+			<college name="潍坊工商职业学院" id="1596" />
+			<college name="潍坊护理职业学院" id="1597" />
+			<college name="潍坊工程职业学院" id="1598" />
+			<college name="潍坊科技学院" id="1628" />
+			<college name="潍坊工商职业学院" id="1646" />
+			<college name="山东海事职业学院" id="1650" />
+		</city>
+		<city name="威海市" sx="W">
+			<college name="山东药品食品职业学院" id="1552" />
+			<college name="山东外事翻译职业学院" id="1557" />
+			<college name="威海职业学院" id="1591" />
+			<college name="威海海洋职业学院" id="1613" />
+			<college name="山东外事翻译职业学院" id="1640" />
+		</city>
+		<city name="烟台市" sx="Y">
+			<college name="烟台大学" id="1490" />
+			<college name="鲁东大学" id="1499" />
+			<college name="山东工商学院" id="1512" />
+			<college name="烟台南山学院" id="1519" />
+			<college name="山东商务职业学院" id="1555" />
+			<college name="山东文化产业职业学院" id="1577" />
+			<college name="烟台职业学院" id="1599" />
+			<college name="烟台工程职业技术学院" id="1600" />
+			<college name="烟台汽车工程职业学院" id="1604" />
+			<college name="烟台大学文经学院" id="1615" />
+			<college name="烟台南山学院" id="1626" />
+			<college name="山东文化产业职业学院" id="1651" />
+		</city>
+		<city name="淄博市" sx="Z">
+			<college name="山东理工大学" id="1488" />
+			<college name="山东万杰医学院" id="1524" />
+			<college name="山东中医药高等专科学校" id="1538" />
+			<college name="淄博师范高等专科学校" id="1539" />
+			<college name="山东化工职业学院" id="1560" />
+			<college name="山东工业职业学院" id="1561" />
+			<college name="山东铝业职业学院" id="1562" />
+			<college name="山东轻工职业学院" id="1576" />
+			<college name="淄博职业学院" id="1605" />
+			<college name="山东万杰医学院" id="1627" />
+		</city>
+		<city name="枣庄市" sx="Z">
+			<college name="枣庄学院" id="1521" />
+			<college name="枣庄科技职业学院" id="1607" />
+			<college name="枣庄职业学院" id="1610" />
+			<college name="枣庄科技职业学院" id="1648" />
+		</city>
+	</province>
+	<province name="四川">
+		<city name="巴中市" sx="B">
+			<college name="巴中职业技术学院" id="2536" />
+			<college name="巴中职业技术学院" id="2571" />
+		</city>
+		<city name="成都市" sx="C">
+			<college name="四川大学" id="2447" />
+			<college name="西南交通大学" id="2448" />
+			<college name="电子科技大学" id="2449" />
+			<college name="西南财经大学" id="2450" />
+			<college name="西南民族大学" id="2451" />
+			<college name="成都理工大学" id="2452" />
+			<college name="西华大学" id="2453" />
+			<college name="成都中医药大学" id="2456" />
+			<college name="四川师范大学" id="2457" />
+			<college name="西南石油大学" id="2460" />
+			<college name="成都信息工程学院" id="2462" />
+			<college name="成都医学院" id="2465" />
+			<college name="成都工业学院" id="2466" />
+			<college name="成都师范学院" id="2467" />
+			<college name="成都体育学院" id="2472" />
+			<college name="四川音乐学院" id="2473" />
+			<college name="成都学院" id="2479" />
+			<college name="四川传媒学院" id="2481" />
+			<college name="四川旅游学院" id="2482" />
+			<college name="成都文理学院" id="2483" />
+			<college name="四川电影电视学院" id="2485" />
+			<college name="成都纺织高等专科学校" id="2487" />
+			<college name="民办四川天一学院" id="2492" />
+			<college name="四川商务职业学院" id="2495" />
+			<college name="四川电力职业技术学院" id="2497" />
+			<college name="四川邮电职业技术学院" id="2498" />
+			<college name="四川交通职业技术学院" id="2500" />
+			<college name="四川科技职业学院" id="2502" />
+			<college name="四川航天职业技术学院" id="2504" />
+			<college name="四川水利职业技术学院" id="2506" />
+			<college name="四川文化传媒职业学院" id="2507" />
+			<college name="四川管理职业学院" id="2508" />
+			<college name="四川华新现代职业学院" id="2509" />
+			<college name="四川国际标榜职业学院" id="2511" />
+			<college name="四川托普信息技术职业学院" id="2512" />
+			<college name="四川文化产业职业学院" id="2513" />
+			<college name="四川艺术职业学院" id="2514" />
+			<college name="四川财经职业学院" id="2515" />
+			<college name="四川城市职业学院" id="2516" />
+			<college name="四川现代职业学院" id="2517" />
+			<college name="四川长江职业学院" id="2521" />
+			<college name="成都航空职业技术学院" id="2522" />
+			<college name="成都农业科技职业学院" id="2523" />
+			<college name="成都职业技术学院" id="2524" />
+			<college name="成都艺术职业学院" id="2525" />
+			<college name="四川文轩职业学院" id="2539" />
+			<college name="四川护理职业学院" id="2540" />
+			<college name="四川西南航空职业学院" id="2542" />
+			<college name="成都信息工程学院银杏酒店管理学院" id="2544" />
+			<college name="四川师范大学成都学院" id="2545" />
+			<college name="电子科技大学成都学院" id="2547" />
+			<college name="四川大学锦城学院" id="2548" />
+			<college name="四川大学锦江学院" id="2550" />
+			<college name="四川传媒学院" id="2554" />
+			<college name="成都文理学院" id="2555" />
+			<college name="四川电影电视学院" id="2557" />
+			<college name="民办四川天一学院" id="2559" />
+			<college name="成都艺术职业学院" id="2560" />
+			<college name="四川国际标榜职业学院" id="2561" />
+			<college name="四川托普信息技术职业学院" id="2562" />
+			<college name="四川科技职业学院" id="2563" />
+			<college name="四川文化传媒职业学院" id="2564" />
+			<college name="四川华新现代职业学院" id="2565" />
+			<college name="四川城市职业学院" id="2566" />
+			<college name="四川现代职业学院" id="2567" />
+			<college name="四川长江职业学院" id="2570" />
+			<college name="四川文轩职业学院" id="2574" />
+			<college name="四川西南航空职业学院" id="2575" />
+		</city>
+		<city name="汶川县" sx="C">
+			<college name="阿坝师范高等专科学校" id="2489" />
+		</city>
+		<city name="都江堰" sx="D">
+			<college name="四川工商职业技术学院" id="2499" />
+			<college name="四川外国语大学成都学院" id="2546" />
+		</city>
+		<city name="都江堰市" sx="D">
+			<college name="成都东软学院" id="2476" />
+			<college name="成都东软学院" id="2553" />
+		</city>
+		<city name="德阳市" sx="D">
+			<college name="四川工业科技学院" id="2486" />
+			<college name="四川建筑职业技术学院" id="2493" />
+			<college name="四川工程职业技术学院" id="2496" />
+			<college name="四川司法警官职业学院" id="2510" />
+			<college name="四川工业科技学院" id="2558" />
+		</city>
+		<city name="达州市" sx="D">
+			<college name="四川文理学院" id="2469" />
+			<college name="达州职业技术学院" id="2528" />
+		</city>
+		<city name="广安市" sx="G">
+			<college name="广安职业技术学院" id="2527" />
+		</city>
+		<city name="广汉市" sx="G">
+			<college name="中国民用航空飞行学院" id="2459" />
+		</city>
+		<city name="广元市" sx="G">
+			<college name="川北幼儿师范高等专科学校" id="2491" />
+			<college name="四川信息职业技术学院" id="2503" />
+		</city>
+		<city name="康定县" sx="K">
+			<college name="四川民族学院" id="2474" />
+		</city>
+		<city name="隆昌县" sx="L">
+			<college name="川南幼儿师范专科学校" id="2541" />
+		</city>
+		<city name="乐山市" sx="L">
+			<college name="乐山师范学院" id="2468" />
+			<college name="乐山职业技术学院" id="2534" />
+			<college name="成都理工大学工程技术学院" id="2543" />
+		</city>
+		<city name="眉山市" sx="M">
+			<college name="眉山职业技术学院" id="2531" />
+		</city>
+		<city name="绵阳市" sx="M">
+			<college name="西南科技大学" id="2454" />
+			<college name="绵阳师范学院" id="2475" />
+			<college name="四川文化艺术学院" id="2484" />
+			<college name="四川中医药高等专科学校" id="2488" />
+			<college name="四川幼儿师范高等专科学校" id="2490" />
+			<college name="四川汽车职业技术学院" id="2520" />
+			<college name="绵阳职业技术学院" id="2529" />
+			<college name="四川电子机械职业技术学院" id="2538" />
+			<college name="西南科技大学城市学院" id="2549" />
+			<college name="西南财经大学天府学院" id="2551" />
+			<college name="四川文化艺术学院" id="2556" />
+			<college name="四川汽车职业技术学院" id="2569" />
+			<college name="四川电子机械职业技术学院" id="2573" />
+		</city>
+		<city name="南充市" sx="N">
+			<college name="西华师范大学" id="2458" />
+			<college name="川北医学院" id="2464" />
+			<college name="南充职业技术学院" id="2530" />
+			<college name="西南交通大学希望学院" id="2552" />
+		</city>
+		<city name="内江市" sx="N">
+			<college name="内江师范学院" id="2470" />
+			<college name="内江职业技术学院" id="2535" />
+		</city>
+		<city name="攀枝花" sx="P">
+			<college name="攀枝花学院" id="2478" />
+		</city>
+		<city name="攀枝花市" sx="P">
+			<college name="四川机电职业技术学院" id="2501" />
+		</city>
+		<city name="遂宁市" sx="S">
+			<college name="四川职业技术学院" id="2494" />
+		</city>
+		<city name="西昌市" sx="X">
+			<college name="西昌学院" id="2480" />
+		</city>
+		<city name="雅安市" sx="Y">
+			<college name="四川农业大学" id="2455" />
+			<college name="雅安职业技术学院" id="2533" />
+		</city>
+		<city name="宜宾市" sx="Y">
+			<college name="宜宾学院" id="2477" />
+			<college name="宜宾职业技术学院" id="2532" />
+		</city>
+		<city name="自贡市" sx="Z">
+			<college name="四川理工学院" id="2461" />
+			<college name="四川卫生康复职业学院" id="2518" />
+		</city>
+		<city name="泸州市" sx="Z">
+			<college name="泸州医学院" id="2463" />
+			<college name="四川警察学院" id="2471" />
+			<college name="四川化工职业技术学院" id="2505" />
+			<college name="四川三河职业学院" id="2519" />
+			<college name="泸州职业技术学院" id="2526" />
+			<college name="四川三河职业学院" id="2568" />
+		</city>
+		<city name="资阳市" sx="Z">
+			<college name="四川希望汽车职业学院" id="2537" />
+			<college name="四川希望汽车职业学院" id="2572" />
+		</city>
+	</province>
+	<province name="湖南">
+		<city name="常德市" sx="C">
+			<college name="湖南文理学院" id="1969" />
+			<college name="湖南应用技术学院" id="1982" />
+			<college name="湖南幼儿师范高等专科学校" id="1987" />
+			<college name="湘南幼儿师范高等专科学校" id="1988" />
+			<college name="湖南高尔夫旅游职业学院" id="2029" />
+			<college name="常德职业技术学院" id="2047" />
+			<college name="湖南文理学院芙蓉学院" id="2063" />
+			<college name="湖南应用技术学院" id="2072" />
+			<college name="湖南高尔夫旅游职业学院" id="2081" />
+		</city>
+		<city name="长沙市" sx="C">
+			<college name="国防科学技术大学" id="1947" />
+			<college name="中南大学" id="1948" />
+			<college name="湖南大学" id="1949" />
+			<college name="长沙理工大学" id="1950" />
+			<college name="湖南师范大学" id="1951" />
+			<college name="湖南农业大学" id="1957" />
+			<college name="湖南中医药大学" id="1958" />
+			<college name="中南林业科技大学" id="1959" />
+			<college name="长沙学院" id="1960" />
+			<college name="长沙医学院" id="1964" />
+			<college name="湖南涉外经济学院" id="1967" />
+			<college name="湖南商学院" id="1968" />
+			<college name="湖南第一师范学院" id="1975" />
+			<college name="湖南女子学院" id="1976" />
+			<college name="湖南财政经济学院" id="1977" />
+			<college name="湖南警察学院" id="1978" />
+			<college name="长沙师范学院" id="1979" />
+			<college name="湖南信息学院" id="1981" />
+			<college name="湖南水利水电职业技术学院" id="1991" />
+			<college name="湖南安全技术职业学院" id="1992" />
+			<college name="湖南商务职业技术学院" id="1993" />
+			<college name="湖南交通职业技术学院" id="1994" />
+			<college name="湖南外国语职业学院" id="1995" />
+			<college name="湖南电子科技职业学院" id="1996" />
+			<college name="湖南生物机电职业技术学院" id="1997" />
+			<college name="湖南劳动人事职业学院" id="1998" />
+			<college name="湖南艺术职业学院" id="1999" />
+			<college name="湖南工业职业技术学院" id="2000" />
+			<college name="湖南大众传媒职业技术学院" id="2001" />
+			<college name="湖南信息职业技术学院" id="2002" />
+			<college name="湖南现代物流职业技术学院" id="2003" />
+			<college name="湖南网络工程职业学院" id="2004" />
+			<college name="湖南司法警官职业学院" id="2005" />
+			<college name="湖南机电职业技术学院" id="2006" />
+			<college name="湖南体育职业学院" id="2007" />
+			<college name="湖南外贸职业学院" id="2008" />
+			<college name="湖南工程职业技术学院" id="2009" />
+			<college name="湖南科技职业学院" id="2010" />
+			<college name="湖南都市职业学院" id="2011" />
+			<college name="湖南食品药品职业学院" id="2012" />
+			<college name="湖南邮电职业技术学院" id="2013" />
+			<college name="湖南三一工业职业技术学院" id="2014" />
+			<college name="长沙航空职业技术学院" id="2031" />
+			<college name="长沙民政职业技术学院" id="2032" />
+			<college name="长沙电力职业技术学院" id="2033" />
+			<college name="长沙环境保护职业技术学院" id="2034" />
+			<college name="长沙商贸旅游职业技术学院" id="2035" />
+			<college name="长沙南方职业学院" id="2036" />
+			<college name="长沙职业技术学院" id="2037" />
+			<college name="长沙卫生职业学院" id="2038" />
+			<college name="保险职业学院" id="2048" />
+			<college name="湖南师范大学树达学院" id="2054" />
+			<college name="湖南商学院北津学院" id="2055" />
+			<college name="中南林业科技大学涉外学院" id="2056" />
+			<college name="湖南农业大学东方科技学院" id="2057" />
+			<college name="长沙理工大学城南学院" id="2058" />
+			<college name="湖南中医药大学湘杏学院" id="2067" />
+			<college name="长沙医学院" id="2069" />
+			<college name="湖南涉外经济学院" id="2070" />
+			<college name="湖南信息学院" id="2071" />
+			<college name="长沙南方职业学院" id="2077" />
+			<college name="湖南外国语职业学院" id="2078" />
+			<college name="湖南电子科技职业学院" id="2079" />
+			<college name="湖南都市职业学院" id="2080" />
+			<college name="湖南三一工业职业技术学院" id="2084" />
+		</city>
+		<city name="郴州市" sx="C">
+			<college name="湘南学院" id="1966" />
+			<college name="郴州职业技术学院" id="2051" />
+		</city>
+		<city name="怀化市" sx="H">
+			<college name="怀化学院" id="1970" />
+			<college name="湖南医药学院" id="1980" />
+			<college name="怀化职业技术学院" id="2045" />
+		</city>
+		<city name="衡阳市" sx="H">
+			<college name="南华大学" id="1955" />
+			<college name="衡阳师范学院" id="1965" />
+			<college name="湖南工学院" id="1974" />
+			<college name="湖南交通工程学院" id="1983" />
+			<college name="湖南环境生物职业技术学院" id="1990" />
+			<college name="湖南高速铁路职业技术学院" id="2025" />
+			<college name="湖南工商职业学院" id="2030" />
+			<college name="衡阳财经工业职业技术学院" id="2040" />
+			<college name="南华大学船山学院" id="2062" />
+			<college name="衡阳师范学院南岳学院" id="2068" />
+			<college name="湖南交通工程学院" id="2073" />
+			<college name="湖南工商职业学院" id="2082" />
+		</city>
+		<city name="吉首市" sx="J">
+			<college name="吉首大学" id="1954" />
+			<college name="湘西民族职业技术学院" id="2041" />
+		</city>
+		<city name="娄底市" sx="L">
+			<college name="湖南人文科技学院" id="1973" />
+			<college name="潇湘职业学院" id="2044" />
+			<college name="娄底职业技术学院" id="2053" />
+			<college name="潇湘职业学院" id="2075" />
+		</city>
+		<city name="邵阳市" sx="S">
+			<college name="邵阳学院" id="1972" />
+			<college name="邵阳医学高等专科学校" id="1985" />
+			<college name="邵阳职业技术学院" id="2050" />
+		</city>
+		<city name="湘潭市" sx="X">
+			<college name="湖南科技大学" id="1952" />
+			<college name="湘潭大学" id="1953" />
+			<college name="湖南工程学院" id="1962" />
+			<college name="湖南科技工业职业技术学院" id="1989" />
+			<college name="湖南软件职业学院" id="2020" />
+			<college name="湖南城建职业技术学院" id="2021" />
+			<college name="湖南电气职业技术学院" id="2022" />
+			<college name="湖南吉利汽车职业技术学院" id="2023" />
+			<college name="湖南理工职业技术学院" id="2024" />
+			<college name="湘潭职业技术学院" id="2052" />
+			<college name="湖南科技大学潇湘学院" id="2059" />
+			<college name="湘潭大学兴湘学院" id="2061" />
+			<college name="湖南工程学院应用技术学院" id="2066" />
+			<college name="湖南软件职业学院" id="2076" />
+			<college name="湖南吉利汽车职业技术学院" id="2083" />
+		</city>
+		<city name="益阳市" sx="Y">
+			<college name="湖南城市学院" id="1961" />
+			<college name="益阳医学高等专科学校" id="1986" />
+			<college name="湖南工艺美术职业学院" id="2026" />
+			<college name="益阳职业技术学院" id="2049" />
+		</city>
+		<city name="岳阳市" sx="Y">
+			<college name="湖南理工学院" id="1963" />
+			<college name="湖南石油化工职业技术学院" id="2027" />
+			<college name="湖南民族职业学院" id="2028" />
+			<college name="岳阳职业技术学院" id="2046" />
+			<college name="湖南理工学院南湖学院" id="2064" />
+		</city>
+		<city name="永州市" sx="Y">
+			<college name="湖南科技学院" id="1971" />
+			<college name="湖南九嶷职业技术学院" id="2019" />
+			<college name="永州职业技术学院" id="2042" />
+			<college name="湖南九嶷职业技术学院" id="2074" />
+		</city>
+		<city name="张家界市" sx="Z">
+			<college name="张家界航空工业职业技术学院" id="2039" />
+			<college name="吉首大学张家界学院" id="2065" />
+		</city>
+		<city name="株洲市" sx="Z">
+			<college name="湖南工业大学" id="1956" />
+			<college name="湖南中医药高等专科学校" id="1984" />
+			<college name="湖南铁道职业技术学院" id="2015" />
+			<college name="湖南铁路科技职业技术学院" id="2016" />
+			<college name="湖南有色金属职业技术学院" id="2017" />
+			<college name="湖南化工职业技术学院" id="2018" />
+			<college name="湖南汽车工程职业学院" id="2043" />
+			<college name="湖南工业大学科技学院" id="2060" />
+		</city>
+	</province>
+	<province name="湖北">
+		<city name="长沙市" sx="C">
+			<college name="华中师范大学武汉传媒学院" id="1926" />
+		</city>
+		<city name="丹江口" sx="D">
+			<college name="郧阳师范高等专科学校" id="1850" />
+		</city>
+		<city name="恩施市" sx="E">
+			<college name="湖北民族学院" id="1834" />
+			<college name="恩施职业技术学院" id="1890" />
+			<college name="湖北民族学院科技学院" id="1921" />
+		</city>
+		<city name="鄂州市" sx="E">
+			<college name="鄂州职业大学" id="1891" />
+		</city>
+		<city name="黄冈市" sx="H">
+			<college name="黄冈师范学院" id="1827" />
+			<college name="黄冈职业技术学院" id="1894" />
+			<college name="黄冈科技职业学院" id="1895" />
+			<college name="鄂东职业技术学院" id="1896" />
+			<college name="黄冈科技职业学院" id="1946" />
+		</city>
+		<city name="黄石市" sx="H">
+			<college name="湖北师范学院" id="1828" />
+			<college name="湖北理工学院" id="1836" />
+			<college name="湖北工程职业学院" id="1903" />
+			<college name="湖北师范学院文理学院" id="1919" />
+		</city>
+		<city name="荆门市" sx="J">
+			<college name="荆楚理工学院" id="1838" />
+		</city>
+		<city name="荆州市" sx="J">
+			<college name="长江大学" id="1815" />
+			<college name="湖北中医药高等专科学校" id="1849" />
+			<college name="荆州职业技术学院" id="1892" />
+			<college name="长江大学文理学院" id="1924" />
+			<college name="长江大学工程技术学院" id="1925" />
+		</city>
+		<city name="潜江市" sx="Q">
+			<college name="江汉艺术职业学院" id="1900" />
+		</city>
+		<city name="沙市市" sx="S">
+			<college name="荆州理工职业学院" id="1893" />
+		</city>
+		<city name="十堰市" sx="S">
+			<college name="湖北汽车工业学院" id="1824" />
+			<college name="湖北医药学院" id="1825" />
+			<college name="湖北工业职业技术学院" id="1867" />
+			<college name="湖北汽车工业学院科技学院" id="1916" />
+			<college name="湖北医药学院药护学院" id="1922" />
+		</city>
+		<city name="随州市" sx="S">
+			<college name="随州职业技术学院" id="1897" />
+		</city>
+		<city name="天门市" sx="T">
+			<college name="天门职业学院" id="1904" />
+		</city>
+		<city name="武汉市" sx="W">
+			<college name="武汉大学" id="1806" />
+			<college name="华中科技大学" id="1807" />
+			<college name="中南财经政法大学" id="1808" />
+			<college name="武汉理工大学" id="1809" />
+			<college name="中国地质大学（武汉）" id="1810" />
+			<college name="华中农业大学" id="1811" />
+			<college name="华中师范大学" id="1812" />
+			<college name="中南民族大学" id="1813" />
+			<college name="湖北大学" id="1814" />
+			<college name="江汉大学" id="1817" />
+			<college name="武汉科技大学" id="1818" />
+			<college name="湖北工业大学" id="1819" />
+			<college name="武汉工程大学" id="1820" />
+			<college name="武汉纺织大学" id="1821" />
+			<college name="湖北中医药大学" id="1822" />
+			<college name="武汉轻工大学" id="1823" />
+			<college name="湖北经济学院" id="1829" />
+			<college name="湖北警官学院" id="1830" />
+			<college name="武汉体育学院" id="1831" />
+			<college name="湖北美术学院" id="1832" />
+			<college name="武汉音乐学院" id="1833" />
+			<college name="湖北第二师范学院" id="1839" />
+			<college name="武汉生物工程学院" id="1840" />
+			<college name="武汉东湖学院" id="1841" />
+			<college name="武汉工商学院" id="1842" />
+			<college name="汉口学院" id="1843" />
+			<college name="武昌理工学院" id="1844" />
+			<college name="武昌工学院" id="1845" />
+			<college name="武汉商学院" id="1846" />
+			<college name="武汉工程科技学院" id="1847" />
+			<college name="文华学院" id="1848" />
+			<college name="湖北幼儿师范高等专科学校" id="1851" />
+			<college name="湖北生态工程职业技术学院" id="1852" />
+			<college name="湖北生物科技职业学院" id="1853" />
+			<college name="湖北财税职业学院" id="1854" />
+			<college name="湖北青年职业学院" id="1856" />
+			<college name="湖北城市建设职业技术学院" id="1857" />
+			<college name="湖北轻工职业技术学院" id="1859" />
+			<college name="湖北交通职业技术学院" id="1860" />
+			<college name="湖北科技职业学院" id="1861" />
+			<college name="湖北水利水电职业技术学院" id="1862" />
+			<college name="湖北开放职业学院" id="1863" />
+			<college name="湖北国土资源职业学院" id="1864" />
+			<college name="湖北体育职业学院" id="1865" />
+			<college name="湖北艺术职业学院" id="1866" />
+			<college name="武汉船舶职业技术学院" id="1868" />
+			<college name="武汉职业技术学院" id="1869" />
+			<college name="武汉工贸职业学院" id="1870" />
+			<college name="武汉民政职业学院" id="1871" />
+			<college name="武汉科技职业学院" id="1872" />
+			<college name="武汉铁路职业技术学院" id="1873" />
+			<college name="武汉航海职业技术学院" id="1874" />
+			<college name="武汉警官职业学院" id="1875" />
+			<college name="武汉电力职业技术学院" id="1876" />
+			<college name="武汉外语外事职业学院" id="1877" />
+			<college name="武汉商贸职业学院" id="1878" />
+			<college name="武汉交通职业学院" id="1879" />
+			<college name="武汉工业职业技术学院" id="1880" />
+			<college name="武汉软件工程职业学院" id="1881" />
+			<college name="武汉信息传播职业技术学院" id="1882" />
+			<college name="武汉工程职业技术学院" id="1883" />
+			<college name="武汉城市职业学院" id="1884" />
+			<college name="长江职业学院" id="1885" />
+			<college name="长江工程职业技术学院" id="1886" />
+			<college name="武昌职业学院" id="1887" />
+			<college name="华中科技大学武昌分校" id="1905" />
+			<college name="中南财经政法大学武汉学院" id="1906" />
+			<college name="武汉理工大学华夏学院" id="1907" />
+			<college name="湖北大学知行学院" id="1908" />
+			<college name="武汉科技大学城市学院" id="1910" />
+			<college name="湖北工业大学工程技术学院" id="1911" />
+			<college name="湖北工业大学商贸学院" id="1912" />
+			<college name="武汉工程大学邮电与信息工程学院" id="1913" />
+			<college name="武汉纺织大学外经贸学院" id="1914" />
+			<college name="江汉大学文理学院" id="1915" />
+			<college name="湖北经济学院法商学院" id="1917" />
+			<college name="武汉体育学院体育科技学院" id="1918" />
+			<college name="华中农业大学楚天学院" id="1927" />
+			<college name="武汉大学珞珈学院" id="1928" />
+			<college name="汉口学院" id="1929" />
+			<college name="武汉生物工程学院" id="1930" />
+			<college name="武汉东湖学院" id="1931" />
+			<college name="武汉工商学院" id="1932" />
+			<college name="武昌理工学院" id="1933" />
+			<college name="武昌工学院" id="1934" />
+			<college name="武汉工程科技学院" id="1935" />
+			<college name="文华学院" id="1936" />
+			<college name="长江职业学院" id="1937" />
+			<college name="武汉外语外事职业学院" id="1938" />
+			<college name="武汉商贸职业学院" id="1939" />
+			<college name="武汉信息传播职业技术学院" id="1940" />
+			<college name="武汉科技职业学院" id="1941" />
+			<college name="湖北开放职业学院" id="1942" />
+			<college name="武昌职业学院" id="1943" />
+			<college name="武汉工贸职业学院" id="1944" />
+			<college name="湖北科技职业学院" id="1945" />
+		</city>
+		<city name="襄樊市" sx="X">
+			<college name="湖北文理学院" id="1835" />
+			<college name="襄阳职业技术学院" id="1889" />
+		</city>
+		<city name="孝感市" sx="X">
+			<college name="湖北工程学院" id="1826" />
+			<college name="湖北职业技术学院" id="1855" />
+			<college name="湖北工程学院新技术学院" id="1920" />
+		</city>
+		<city name="咸宁市" sx="X">
+			<college name="湖北科技学院" id="1837" />
+			<college name="咸宁职业技术学院" id="1902" />
+		</city>
+		<city name="仙桃市" sx="X">
+			<college name="仙桃职业学院" id="1901" />
+		</city>
+		<city name="襄阳市" sx="X">
+			<college name="襄阳汽车职业技术学院" id="1888" />
+			<college name="湖北文理学院理工学院" id="1923" />
+		</city>
+		<city name="宜昌市" sx="Y">
+			<college name="三峡大学" id="1816" />
+			<college name="湖北三峡职业技术学院" id="1858" />
+			<college name="三峡电力职业学院" id="1898" />
+			<college name="三峡旅游职业技术学院" id="1899" />
+			<college name="三峡大学科技学院" id="1909" />
+		</city>
+	</province>
+	<province name="山西">
+		<city name="长治市" sx="C">
+			<college name="长治医学院" id="305" />
+			<college name="长治学院" id="310" />
+			<college name="山西机电职业技术学院" id="324" />
+			<college name="潞安职业技术学院" id="356" />
+			<college name="长治职业技术学院" id="361" />
+		</city>
+		<city name="大同市" sx="D">
+			<college name="山西大同大学" id="301" />
+			<college name="大同煤炭职业技术学院" id="357" />
+		</city>
+		<city name="晋城市" sx="J">
+			<college name="晋城职业技术学院" id="362" />
+		</city>
+		<city name="介休市" sx="J">
+			<college name="山西同文职业技术学院" id="344" />
+			<college name="山西同文职业技术学院" id="376" />
+		</city>
+		<city name="晋中市" sx="J">
+			<college name="晋中师范高等专科学校" id="352" />
+			<college name="晋中职业技术学院" id="353" />
+		</city>
+		<city name="临汾市" sx="L">
+			<college name="山西师范大学" id="300" />
+			<college name="山西管理职业学院" id="328" />
+			<college name="山西信息职业技术学院" id="341" />
+			<college name="临汾职业技术学院" id="359" />
+			<college name="山西师范大学现代文理学院" id="367" />
+			<college name="山西信息职业技术学院" id="374" />
+		</city>
+		<city name="吕梁市" sx="L">
+			<college name="吕梁学院" id="311" />
+		</city>
+		<city name="朔州市" sx="S">
+			<college name="朔州职业技术学院" id="354" />
+			<college name="朔州师范高等专科学校" id="355" />
+		</city>
+		<city name="太谷县" sx="T">
+			<college name="山西农业大学" id="298" />
+			<college name="山西农业大学信息学院" id="366" />
+		</city>
+		<city name="太原市" sx="T">
+			<college name="山西大学" id="294" />
+			<college name="太原理工大学" id="295" />
+			<college name="中北大学" id="296" />
+			<college name="太原科技大学" id="297" />
+			<college name="山西医科大学" id="299" />
+			<college name="山西财经大学" id="302" />
+			<college name="太原工业学院" id="303" />
+			<college name="山西中医学院" id="304" />
+			<college name="太原师范学院" id="308" />
+			<college name="太原学院" id="312" />
+			<college name="山西传媒学院" id="313" />
+			<college name="山西工商学院" id="314" />
+			<college name="山西应用科技学院" id="316" />
+			<college name="山西省财政税务专科学校" id="317" />
+			<college name="山西警官高等专科学校" id="318" />
+			<college name="山西建筑职业技术学院" id="319" />
+			<college name="山西轻工职业技术学院" id="320" />
+			<college name="山西交通职业技术学院" id="321" />
+			<college name="山西工程职业技术学院" id="322" />
+			<college name="山西煤炭职业技术学院" id="323" />
+			<college name="山西水利职业技术学院" id="325" />
+			<college name="山西职业技术学院" id="326" />
+			<college name="山西艺术职业学院" id="327" />
+			<college name="山西旅游职业学院" id="329" />
+			<college name="山西警官职业学院" id="330" />
+			<college name="山西药科职业学院" id="331" />
+			<college name="山西经贸职业学院" id="332" />
+			<college name="山西金融职业学院" id="333" />
+			<college name="山西体育职业学院" id="334" />
+			<college name="山西戏剧职业学院" id="335" />
+			<college name="山西青年职业学院" id="336" />
+			<college name="山西电力职业技术学院" id="337" />
+			<college name="山西财贸职业技术学院" id="338" />
+			<college name="山西国际商务职业学院" id="339" />
+			<college name="山西林业职业技术学院" id="340" />
+			<college name="山西华澳商贸职业学院" id="342" />
+			<college name="山西老区职业技术学院" id="343" />
+			<college name="太原城市职业技术学院" id="350" />
+			<college name="太原旅游职业学院" id="351" />
+			<college name="山西大学商务学院" id="364" />
+			<college name="太原理工大学现代科技学院" id="365" />
+			<college name="中北大学信息商务学院" id="368" />
+			<college name="太原科技大学华科学院" id="369" />
+			<college name="山西医科大学晋祠学院" id="370" />
+			<college name="山西财经大学华商学院" id="371" />
+			<college name="山西工商学院" id="372" />
+			<college name="山西应用科技学院" id="373" />
+			<college name="山西华澳商贸职业学院" id="375" />
+			<college name="山西老区职业技术学院" id="377" />
+		</city>
+		<city name="忻州市" sx="X">
+			<college name="忻州师范学院" id="307" />
+			<college name="忻州职业技术学院" id="360" />
+		</city>
+		<city name="运城市" sx="Y">
+			<college name="运城学院" id="306" />
+			<college name="运城幼儿师范高等专科学校" id="345" />
+			<college name="运城师范高等专科学校" id="346" />
+			<college name="山西运城农业职业技术学院" id="347" />
+			<college name="运城职业技术学院" id="348" />
+			<college name="运城护理职业学院" id="349" />
+			<college name="运城职业技术学院" id="378" />
+		</city>
+		<city name="榆次市" sx="Y">
+			<college name="晋中学院" id="309" />
+		</city>
+		<city name="阳泉市" sx="Y">
+			<college name="山西工程技术学院" id="315" />
+			<college name="阳泉职业技术学院" id="358" />
+			<college name="阳泉师范高等专科学校" id="363" />
+		</city>
+	</province>
+	<province name="江苏">
+		<city name="常州市" sx="C">
+			<college name="常州大学" id="845" />
+			<college name="常州工学院" id="851" />
+			<college name="江苏理工学院" id="856" />
+			<college name="常州工程职业技术学院" id="927" />
+			<college name="常州纺织服装职业技术学院" id="928" />
+			<college name="常州信息职业技术学院" id="929" />
+			<college name="常州机电职业技术学院" id="930" />
+			<college name="建东职业技术学院" id="931" />
+			<college name="建东职业技术学院" id="999" />
+		</city>
+		<city name="淮安市" sx="H">
+			<college name="江苏财经职业技术学院" id="884" />
+			<college name="江苏食品药品职业技术学院" id="885" />
+			<college name="淮安信息职业技术学院" id="944" />
+			<college name="炎黄职业技术学院" id="946" />
+			<college name="炎黄职业技术学院" id="993" />
+		</city>
+		<city name="淮阴市" sx="H">
+			<college name="淮阴工学院" id="848" />
+			<college name="淮阴师范学院" id="857" />
+		</city>
+		<city name="靖江市" sx="J">
+			<college name="常州大学怀德学院" id="978" />
+		</city>
+		<city name="句容市" sx="J">
+			<college name="江苏农林职业技术学院" id="880" />
+		</city>
+		<city name="江阴市" sx="J">
+			<college name="江阴职业技术学院" id="943" />
+		</city>
+		<city name="昆山市" sx="K">
+			<college name="昆山杜克大学" id="872" />
+			<college name="昆山登云科技职业学院" id="945" />
+			<college name="昆山杜克大学" id="985" />
+		</city>
+		<city name="连云港" sx="L">
+			<college name="淮海工学院" id="850" />
+			<college name="连云港师范高等专科学校" id="874" />
+			<college name="连云港职业技术学院" id="942" />
+		</city>
+		<city name="南京市" sx="N">
+			<college name="南京大学" id="823" />
+			<college name="东南大学" id="824" />
+			<college name="河海大学" id="826" />
+			<college name="南京农业大学" id="828" />
+			<college name="中国药科大学" id="829" />
+			<college name="南京理工大学" id="830" />
+			<college name="南京航空航天大学" id="831" />
+			<college name="南京邮电大学" id="835" />
+			<college name="南京工业大学" id="837" />
+			<college name="南京林业大学" id="838" />
+			<college name="南京医科大学" id="839" />
+			<college name="南京中医药大学" id="840" />
+			<college name="南京师范大学" id="841" />
+			<college name="南京财经大学" id="843" />
+			<college name="南京信息工程大学" id="847" />
+			<college name="金陵科技学院" id="853" />
+			<college name="南京工程学院" id="854" />
+			<college name="南京晓庄学院" id="858" />
+			<college name="南京审计学院" id="861" />
+			<college name="江苏警官学院" id="862" />
+			<college name="南京体育学院" id="863" />
+			<college name="南京艺术学院" id="864" />
+			<college name="三江学院" id="866" />
+			<college name="南京森林警察学院" id="867" />
+			<college name="江苏第二师范学院" id="870" />
+			<college name="江苏城市职业学院" id="877" />
+			<college name="江苏海事职业技术学院" id="878" />
+			<college name="江苏经贸职业技术学院" id="879" />
+			<college name="江苏建康职业学院" id="882" />
+			<college name="江苏联合职业技术学院" id="883" />
+			<college name="南京工业职业技术学院" id="889" />
+			<college name="南京交通职业技术学院" id="890" />
+			<college name="南京视觉艺术职业学院" id="891" />
+			<college name="南京机电职业技术学院" id="892" />
+			<college name="南京特殊教育职业技术学院" id="893" />
+			<college name="南京城市职业学院" id="894" />
+			<college name="南京信息职业技术学院" id="895" />
+			<college name="南京化工职业技术学院" id="896" />
+			<college name="南京铁道职业技术学院" id="897" />
+			<college name="南京旅游职业学院" id="898" />
+			<college name="应天职业技术学院" id="899" />
+			<college name="正德职业技术学院" id="900" />
+			<college name="钟山职业技术学院" id="901" />
+			<college name="金肯职业技术学院" id="952" />
+			<college name="东南大学成贤学院" id="956" />
+			<college name="南京大学金陵学院" id="958" />
+			<college name="南京理工大学紫金学院" id="959" />
+			<college name="南京航空航天大学金城学院" id="960" />
+			<college name="中国传媒大学南广学院" id="961" />
+			<college name="南京工业大学浦江学院" id="964" />
+			<college name="南京师范大学中北学院" id="965" />
+			<college name="南京医科大学康达学院" id="966" />
+			<college name="南京信息工程大学滨江学院" id="968" />
+			<college name="苏州大学文正学院" id="969" />
+			<college name="南京邮电大学通达学院" id="975" />
+			<college name="南京审计学院金审学院" id="980" />
+			<college name="西交利物浦大学" id="981" />
+			<college name="三江学院" id="982" />
+			<college name="钟山职业技术学院" id="991" />
+			<college name="正德职业技术学院" id="992" />
+			<college name="金肯职业技术学院" id="995" />
+			<college name="应天职业技术学院" id="997" />
+		</city>
+		<city name="南通市" sx="N">
+			<college name="南通大学" id="844" />
+			<college name="南通理工学院" id="871" />
+			<college name="江苏工程职业技术学院" id="888" />
+			<college name="南通航运职业技术学院" id="915" />
+			<college name="南通科技职业学院" id="916" />
+			<college name="南通师范高等专科学校" id="917" />
+			<college name="南通职业大学" id="918" />
+			<college name="江苏商贸职业学院" id="955" />
+			<college name="南通大学杏林学院" id="979" />
+			<college name="南通理工学院" id="984" />
+		</city>
+		<city name="宿迁市" sx="S">
+			<college name="宿迁学院" id="873" />
+			<college name="宿迁职业技术学院" id="953" />
+			<college name="宿迁泽达职业技术学院" id="954" />
+			<college name="宿迁泽达职业技术学院" id="1002" />
+		</city>
+		<city name="苏州市" sx="S">
+			<college name="苏州大学" id="832" />
+			<college name="西交利物浦大学" id="846" />
+			<college name="苏州科技学院" id="860" />
+			<college name="常熟理工学院" id="865" />
+			<college name="苏州工艺美术职业技术学院" id="902" />
+			<college name="苏州职业大学" id="903" />
+			<college name="苏州高博软件技术职业学院" id="904" />
+			<college name="苏州经贸职业技术学院" id="905" />
+			<college name="苏州工业职业技术学院" id="907" />
+			<college name="苏州农业职业技术学院" id="908" />
+			<college name="苏州卫生职业技术学院" id="909" />
+			<college name="苏州托普信息职业技术学院" id="910" />
+			<college name="苏州港大思培科技职业学院" id="911" />
+			<college name="苏州工业园区职业技术学院" id="912" />
+			<college name="苏州工业园区服务外包职业学院" id="913" />
+			<college name="硅湖职业技术学院" id="914" />
+			<college name="苏州健雄职业技术学院" id="948" />
+			<college name="苏州大学应用技术学院" id="970" />
+			<college name="苏州科技学院天平学院" id="971" />
+			<college name="苏州港大思培科技职业学院" id="986" />
+			<college name="硅湖职业技术学院" id="996" />
+			<college name="苏州托普信息职业技术学院" id="998" />
+		</city>
+		<city name="泰州市" sx="T">
+			<college name="泰州学院" id="869" />
+			<college name="江苏农牧科技职业学院" id="886" />
+			<college name="泰州职业技术学院" id="949" />
+			<college name="南京理工大学泰州科技学院" id="962" />
+			<college name="南京师范大学泰州学院" id="963" />
+			<college name="南京中医药大学翰林学院" id="967" />
+		</city>
+		<city name="吴江市" sx="W">
+			<college name="苏州信息职业技术学院" id="906" />
+			<college name="苏州信息职业技术学院" id="1003" />
+		</city>
+		<city name="无锡市" sx="W">
+			<college name="江南大学" id="827" />
+			<college name="无锡太湖学院" id="868" />
+			<college name="江苏信息职业技术学院" id="881" />
+			<college name="无锡商业职业技术学院" id="919" />
+			<college name="无锡城市职业技术学院" id="920" />
+			<college name="无锡工艺职业技术学院" id="921" />
+			<college name="无锡科技职业学院" id="922" />
+			<college name="无锡职业技术学院" id="923" />
+			<college name="无锡南洋职业技术学院" id="924" />
+			<college name="太湖创意职业技术学院" id="925" />
+			<college name="江南影视艺术职业学院" id="926" />
+			<college name="无锡太湖学院" id="983" />
+			<college name="无锡南洋职业技术学院" id="990" />
+			<college name="江南影视艺术职业学院" id="1000" />
+			<college name="太湖创意职业技术学院" id="1001" />
+		</city>
+		<city name="徐州市" sx="X">
+			<college name="中国矿业大学" id="825" />
+			<college name="江苏师范大学" id="842" />
+			<college name="徐州工程学院" id="849" />
+			<college name="徐州医学院" id="855" />
+			<college name="徐州幼儿师范高等专科学校" id="876" />
+			<college name="江苏建筑职业技术学院" id="887" />
+			<college name="徐州工业职业技术学院" id="940" />
+			<college name="徐州生物工程职业技术学院" id="941" />
+			<college name="九州职业技术学院" id="947" />
+			<college name="中国矿业大学徐海学院" id="957" />
+			<college name="江苏师范大学科文学院" id="974" />
+			<college name="九州职业技术学院" id="994" />
+		</city>
+		<city name="盐城市" sx="Y">
+			<college name="盐城工学院" id="852" />
+			<college name="盐城师范学院" id="859" />
+			<college name="盐城卫生职业技术学院" id="937" />
+			<college name="盐城工业职业技术学院" id="938" />
+			<college name="民办明达职业技术学院" id="939" />
+			<college name="民办明达职业技术学院" id="989" />
+		</city>
+		<city name="扬州市" sx="Y">
+			<college name="扬州大学" id="833" />
+			<college name="扬州市职业大学" id="932" />
+			<college name="扬州环境资源职业技术学院" id="933" />
+			<college name="扬州工业职业技术学院" id="934" />
+			<college name="扬州中瑞酒店职业学院" id="935" />
+			<college name="江海职业技术学院" id="936" />
+			<college name="扬州大学广陵学院" id="973" />
+			<college name="江海职业技术学院" id="987" />
+			<college name="扬州中瑞酒店职业学院" id="1004" />
+		</city>
+		<city name="张家港" sx="Z">
+			<college name="沙洲职业工学院" id="950" />
+		</city>
+		<city name="张家港市" sx="Z">
+			<college name="江苏科技大学苏州理工学院" id="977" />
+		</city>
+		<city name="镇江市" sx="Z">
+			<college name="江苏大学" id="834" />
+			<college name="江苏科技大学" id="836" />
+			<college name="镇江市高等专科学校" id="875" />
+			<college name="金山职业技术学院" id="951" />
+			<college name="江苏大学京江学院" id="972" />
+			<college name="南京财经大学红山学院" id="976" />
+			<college name="金山职业技术学院" id="988" />
+		</city>
+	</province>
+	<province name="广东">
+		<city name="潮州市" sx="C">
+			<college name="韩山师范学院" id="2111" />
+		</city>
+		<city name="东莞市" sx="D">
+			<college name="东莞理工学院" id="2104" />
+			<college name="广东科技学院" id="2124" />
+			<college name="广东亚视演艺职业学院" id="2157" />
+			<college name="东莞职业技术学院" id="2199" />
+			<college name="广东创新科技职业学院" id="2202" />
+			<college name="东莞理工学院城市学院" id="2217" />
+			<college name="广东科技学院" id="2230" />
+			<college name="广东亚视演艺职业学院" id="2242" />
+			<college name="广东创新科技职业学院" id="2258" />
+		</city>
+		<city name="佛山市" sx="F">
+			<college name="佛山科学技术学院" id="2122" />
+			<college name="广东东软学院" id="2128" />
+			<college name="广东职业技术学院" id="2150" />
+			<college name="广东环境保护工程职业学院" id="2160" />
+			<college name="顺德职业技术学院" id="2187" />
+			<college name="佛山职业技术学院" id="2188" />
+			<college name="广东舞蹈戏剧职业学院" id="2203" />
+			<college name="广东东软学院" id="2233" />
+		</city>
+		<city name="广州市" sx="G">
+			<college name="中山大学" id="2085" />
+			<college name="华南理工大学" id="2086" />
+			<college name="暨南大学" id="2087" />
+			<college name="广东工业大学" id="2092" />
+			<college name="华南农业大学" id="2093" />
+			<college name="广州中医药大学" id="2095" />
+			<college name="南方医科大学" id="2096" />
+			<college name="华南师范大学" id="2097" />
+			<college name="广东外语外贸大学" id="2098" />
+			<college name="广州大学" id="2100" />
+			<college name="广东财经大学" id="2101" />
+			<college name="仲恺农业工程学院" id="2105" />
+			<college name="广州医科大学" id="2107" />
+			<college name="广东药学院" id="2108" />
+			<college name="广东金融学院" id="2114" />
+			<college name="广东警官学院" id="2115" />
+			<college name="广州体育学院" id="2116" />
+			<college name="广州美术学院" id="2117" />
+			<college name="星海音乐学院" id="2118" />
+			<college name="广东技术师范学院" id="2119" />
+			<college name="广东培正学院" id="2120" />
+			<college name="广东白云学院" id="2121" />
+			<college name="广东第二师范学院" id="2123" />
+			<college name="广州航海学院" id="2125" />
+			<college name="广州商学院" id="2126" />
+			<college name="广州工商学院" id="2127" />
+			<college name="私立华联学院" id="2132" />
+			<college name="民办南华工商学院" id="2133" />
+			<college name="广东食品药品职业学院" id="2134" />
+			<college name="广州番禺职业技术学院" id="2135" />
+			<college name="广东水利电力职业技术学院" id="2137" />
+			<college name="广东农工商职业技术学院" id="2138" />
+			<college name="广东交通职业技术学院" id="2139" />
+			<college name="广东轻工职业技术学院" id="2141" />
+			<college name="广东理工职业学院" id="2142" />
+			<college name="广东司法警官职业学院" id="2143" />
+			<college name="广东科贸职业学院" id="2144" />
+			<college name="广东青年职业学院" id="2145" />
+			<college name="广东工程职业技术学院" id="2146" />
+			<college name="广东邮电职业技术学院" id="2147" />
+			<college name="广东机电职业技术学院" id="2148" />
+			<college name="广东岭南职业技术学院" id="2149" />
+			<college name="广东省外语艺术职业学院" id="2151" />
+			<college name="广东行政职业学院" id="2152" />
+			<college name="广东女子职业技术学院" id="2153" />
+			<college name="广东建设职业技术学院" id="2154" />
+			<college name="广东科学技术职业学院" id="2155" />
+			<college name="广东工贸职业技术学院" id="2156" />
+			<college name="广东文艺职业学院" id="2158" />
+			<college name="广东体育职业技术学院" id="2159" />
+			<college name="广州民航职业技术学院" id="2162" />
+			<college name="广州工程技术职业学院" id="2163" />
+			<college name="广州城市职业学院" id="2164" />
+			<college name="广州华南商贸职业学院" id="2165" />
+			<college name="广州科技贸易职业学院" id="2166" />
+			<college name="广州现代信息工程职业技术学院" id="2167" />
+			<college name="广州华立科技职业学院" id="2168" />
+			<college name="广州铁路职业技术学院" id="2169" />
+			<college name="广州体育职业技术学院" id="2170" />
+			<college name="广州科技职业技术学院" id="2171" />
+			<college name="广州南洋理工职业学院" id="2172" />
+			<college name="广州涉外经济职业技术学院" id="2173" />
+			<college name="广州城建职业学院" id="2174" />
+			<college name="广州康大职业技术学院" id="2175" />
+			<college name="广州松田职业学院" id="2176" />
+			<college name="广州珠江职业技术学院" id="2177" />
+			<college name="广州华夏职业学院" id="2178" />
+			<college name="广州华商职业学院" id="2179" />
+			<college name="广州东华职业学院" id="2201" />
+			<college name="广东生态工程职业学院" id="2207" />
+			<college name="华南理工大学广州学院" id="2210" />
+			<college name="广东工业大学华立学院" id="2214" />
+			<college name="广州大学松田学院" id="2215" />
+			<college name="中山大学新华学院" id="2218" />
+			<college name="华南农业大学珠江学院" id="2219" />
+			<college name="广州大学华软软件学院" id="2220" />
+			<college name="广东技术师范学院天河学院" id="2221" />
+			<college name="中山大学南方学院" id="2222" />
+			<college name="广东财经大学华商学院" id="2223" />
+			<college name="广东外语外贸大学南国商学院" id="2225" />
+			<college name="广东培正学院" id="2227" />
+			<college name="广东白云学院" id="2228" />
+			<college name="广州华南商贸职业学院" id="2229" />
+			<college name="广州商学院" id="2231" />
+			<college name="广州工商学院" id="2232" />
+			<college name="广州华立科技职业学院" id="2236" />
+			<college name="民办南华工商学院" id="2237" />
+			<college name="私立华联学院" id="2238" />
+			<college name="广东岭南职业技术学院" id="2241" />
+			<college name="广州康大职业技术学院" id="2244" />
+			<college name="广州科技职业技术学院" id="2246" />
+			<college name="广州南洋理工职业学院" id="2247" />
+			<college name="广州涉外经济职业技术学院" id="2248" />
+			<college name="广州现代信息工程职业技术学院" id="2249" />
+			<college name="广州城建职业学院" id="2250" />
+			<college name="广州松田职业学院" id="2252" />
+			<college name="广州珠江职业技术学院" id="2253" />
+			<college name="广州华夏职业学院" id="2255" />
+			<college name="广州华商职业学院" id="2256" />
+			<college name="广州东华职业学院" id="2257" />
+		</city>
+		<city name="河源市" sx="H">
+			<college name="河源职业技术学院" id="2192" />
+		</city>
+		<city name="惠州市" sx="H">
+			<college name="惠州学院" id="2109" />
+			<college name="惠州经济职业技术学院" id="2183" />
+			<college name="惠州卫生职业技术学院" id="2204" />
+			<college name="惠州城市职业学院" id="2208" />
+			<college name="惠州经济职业技术学院" id="2245" />
+		</city>
+		<city name="江门市" sx="J">
+			<college name="五邑大学" id="2091" />
+			<college name="广东南方职业学院" id="2161" />
+			<college name="江门职业技术学院" id="2197" />
+			<college name="广东南方职业学院" id="2254" />
+		</city>
+		<city name="揭阳市" sx="J">
+			<college name="潮汕职业技术学院" id="2186" />
+			<college name="揭阳职业技术学院" id="2195" />
+			<college name="潮汕职业技术学院" id="2240" />
+		</city>
+		<city name="罗定市" sx="L">
+			<college name="罗定职业技术学院" id="2194" />
+		</city>
+		<city name="茂名市" sx="M">
+			<college name="广东石油化工学院" id="2102" />
+			<college name="茂名职业技术学院" id="2198" />
+		</city>
+		<city name="梅州市" sx="M">
+			<college name="嘉应学院" id="2112" />
+		</city>
+		<city name="清远市" sx="Q">
+			<college name="清远职业技术学院" id="2196" />
+			<college name="广东碧桂园职业学院" id="2209" />
+			<college name="广东碧桂园职业学院" id="2261" />
+		</city>
+		<city name="韶关市" sx="S">
+			<college name="韶关学院" id="2113" />
+			<college name="广东松山职业技术学院" id="2140" />
+		</city>
+		<city name="深圳市" sx="S">
+			<college name="深圳大学" id="2089" />
+			<college name="南方科技大学" id="2090" />
+			<college name="香港中文大学（深圳）" id="2130" />
+			<college name="广东新安职业技术学院" id="2136" />
+			<college name="深圳信息职业技术学院" id="2181" />
+			<college name="深圳职业技术学院" id="2185" />
+			<college name="香港中文大学（深圳）" id="2235" />
+			<college name="广东新安职业技术学院" id="2239" />
+		</city>
+		<city name="汕头市" sx="S">
+			<college name="汕头大学" id="2088" />
+			<college name="汕头职业技术学院" id="2190" />
+		</city>
+		<city name="汕尾市" sx="S">
+			<college name="汕尾职业技术学院" id="2191" />
+		</city>
+		<city name="阳江市" sx="Y">
+			<college name="阳江职业技术学院" id="2193" />
+		</city>
+		<city name="珠海市" sx="Z">
+			<college name="北京师范大学－香港浸会大学联合国际学院" id="2099" />
+			<college name="珠海城市职业技术学院" id="2182" />
+			<college name="珠海艺术职业学院" id="2200" />
+			<college name="北京理工大学珠海学院" id="2211" />
+			<college name="北京师范大学珠海分校" id="2212" />
+			<college name="吉林大学珠海学院" id="2216" />
+			<college name="北京师范大学－香港浸会大学联合国际学院" id="2226" />
+			<college name="珠海艺术职业学院" id="2243" />
+		</city>
+		<city name="湛江市" sx="Z">
+			<college name="广东海洋大学" id="2094" />
+			<college name="广东医学院" id="2106" />
+			<college name="岭南师范学院" id="2110" />
+			<college name="广东文理职业学院" id="2184" />
+			<college name="广东海洋大学寸金学院" id="2224" />
+			<college name="广东文理职业学院" id="2251" />
+		</city>
+		<city name="肇庆市" sx="Z">
+			<college name="肇庆学院" id="2103" />
+			<college name="广东理工学院" id="2129" />
+			<college name="肇庆医学高等专科学校" id="2131" />
+			<college name="广东信息工程职业学院" id="2205" />
+			<college name="广东工商职业学院" id="2206" />
+			<college name="广东理工学院" id="2234" />
+			<college name="广东信息工程职业学院" id="2259" />
+			<college name="广东工商职业学院" id="2260" />
+		</city>
+		<city name="中山市" sx="Z">
+			<college name="中山火炬职业技术学院" id="2180" />
+			<college name="中山职业技术学院" id="2189" />
+			<college name="电子科技大学中山学院" id="2213" />
+		</city>
+	</province>
+	<province name="黑龙江">
+		<city name="大庆市" sx="D">
+			<college name="黑龙江八一农垦大学" id="651" />
+			<college name="东北石油大学" id="656" />
+			<college name="大庆师范学院" id="662" />
+			<college name="大庆医学高等专科学校" id="679" />
+			<college name="大庆职业学院" id="688" />
+		</city>
+		<city name="大兴安岭" sx="D">
+			<college name="大兴安岭职业学院" id="713" />
+		</city>
+		<city name="哈尔滨市" sx="H">
+			<college name="东北林业大学" id="643" />
+			<college name="哈尔滨工业大学" id="644" />
+			<college name="哈尔滨工程大学" id="645" />
+			<college name="黑龙江大学" id="646" />
+			<college name="哈尔滨理工大学" id="649" />
+			<college name="东北农业大学" id="650" />
+			<college name="哈尔滨医科大学" id="652" />
+			<college name="黑龙江中医药大学" id="653" />
+			<college name="哈尔滨师范大学" id="654" />
+			<college name="哈尔滨商业大学" id="655" />
+			<college name="黑龙江科技大学" id="657" />
+			<college name="哈尔滨学院" id="658" />
+			<college name="黑龙江工程学院" id="659" />
+			<college name="黑龙江财经学院" id="664" />
+			<college name="哈尔滨体育学院" id="665" />
+			<college name="黑龙江东方学院" id="667" />
+			<college name="哈尔滨金融学院" id="669" />
+			<college name="哈尔滨华德学院" id="671" />
+			<college name="黑龙江外国语学院" id="672" />
+			<college name="哈尔滨剑桥学院" id="673" />
+			<college name="哈尔滨远东理工学院" id="674" />
+			<college name="哈尔滨石油学院" id="675" />
+			<college name="哈尔滨广厦学院" id="676" />
+			<college name="哈尔滨信息工程学院" id="678" />
+			<college name="哈尔滨幼儿师范高等专科学校" id="683" />
+			<college name="黑龙江职业学院" id="684" />
+			<college name="黑龙江司法警官职业学院" id="685" />
+			<college name="黑龙江农业工程职业学院" id="687" />
+			<college name="黑龙江护理高等专科学校" id="689" />
+			<college name="黑龙江建筑职业技术学院" id="692" />
+			<college name="黑龙江农垦职业学院" id="694" />
+			<college name="黑龙江民族职业学院" id="695" />
+			<college name="哈尔滨应用职业技术学院" id="697" />
+			<college name="哈尔滨传媒职业学院" id="698" />
+			<college name="哈尔滨江南职业技术学院" id="700" />
+			<college name="哈尔滨职业技术学院" id="701" />
+			<college name="哈尔滨电力职业技术学院" id="702" />
+			<college name="哈尔滨铁道职业技术学院" id="703" />
+			<college name="黑龙江艺术职业学院" id="706" />
+			<college name="黑龙江粮食职业学院" id="707" />
+			<college name="哈尔滨科学技术职业学院" id="708" />
+			<college name="黑龙江农垦科技职业学院" id="710" />
+			<college name="黑龙江公安警官职业学院" id="711" />
+			<college name="黑龙江生物科技职业学院" id="712" />
+			<college name="黑龙江信息技术职业学院" id="715" />
+			<college name="黑龙江旅游职业技术学院" id="716" />
+			<college name="黑龙江生态工程职业学院" id="718" />
+			<college name="东北农业大学成栋学院" id="720" />
+			<college name="黑龙江工程学院昆仑旅游学院" id="721" />
+			<college name="黑龙江东方学院" id="722" />
+			<college name="黑龙江财经学院" id="723" />
+			<college name="哈尔滨华德学院" id="725" />
+			<college name="黑龙江外国语学院" id="726" />
+			<college name="哈尔滨剑桥学院" id="727" />
+			<college name="哈尔滨远东理工学院" id="728" />
+			<college name="哈尔滨石油学院" id="729" />
+			<college name="哈尔滨广厦学院" id="730" />
+			<college name="哈尔滨信息工程学院" id="731" />
+			<college name="哈尔滨江南职业技术学院" id="733" />
+			<college name="哈尔滨传媒职业学院" id="734" />
+			<college name="哈尔滨应用职业技术学院" id="735" />
+		</city>
+		<city name="鹤岗市" sx="H">
+			<college name="鹤岗师范高等专科学校" id="681" />
+		</city>
+		<city name="黑河市" sx="H">
+			<college name="黑河学院" id="668" />
+		</city>
+		<city name="佳木斯" sx="J">
+			<college name="佳木斯大学" id="647" />
+			<college name="佳木斯职业学院" id="705" />
+		</city>
+		<city name="佳木斯市" sx="J">
+			<college name="黑龙江农业职业技术学院" id="693" />
+			<college name="黑龙江三江美术职业学院" id="717" />
+			<college name="黑龙江三江美术职业学院" id="732" />
+		</city>
+		<city name="鸡西市" sx="J">
+			<college name="黑龙江工业学院" id="677" />
+		</city>
+		<city name="牡丹江市" sx="M">
+			<college name="牡丹江医学院" id="660" />
+			<college name="牡丹江师范学院" id="663" />
+			<college name="黑龙江幼儿师范高等专科学校" id="682" />
+			<college name="黑龙江林业职业技术学院" id="686" />
+			<college name="牡丹江大学" id="691" />
+			<college name="黑龙江农业经济职业学院" id="704" />
+			<college name="黑龙江商业职业学院" id="709" />
+		</city>
+		<city name="齐齐哈尔" sx="Q">
+			<college name="齐齐哈尔大学" id="648" />
+			<college name="齐齐哈尔医学院" id="661" />
+			<college name="齐齐哈尔工程学院" id="670" />
+			<college name="齐齐哈尔高等师范专科学校" id="680" />
+			<college name="黑龙江交通职业技术学院" id="699" />
+			<college name="齐齐哈尔理工职业学院" id="719" />
+			<college name="齐齐哈尔工程学院" id="724" />
+			<college name="齐齐哈尔理工职业学院" id="736" />
+		</city>
+		<city name="七台河市" sx="Q">
+			<college name="七台河职业学院" id="696" />
+		</city>
+		<city name="绥化市" sx="S">
+			<college name="绥化学院" id="666" />
+		</city>
+		<city name="双鸭山市" sx="S">
+			<college name="黑龙江煤炭职业技术学院" id="714" />
+		</city>
+		<city name="伊春市" sx="Y">
+			<college name="伊春职业学院" id="690" />
+		</city>
+	</province>
+	<province name="浙江">
+		<city name="东阳市" sx="D">
+			<college name="浙江横店影视职业学院" id="1065" />
+			<college name="浙江广厦建设职业技术学院" id="1066" />
+			<college name="浙江广厦建设职业技术学院" id="1118" />
+			<college name="浙江横店影视职业学院" id="1122" />
+		</city>
+		<city name="海宁市" sx="H">
+			<college name="浙江财经大学东方学院" id="1104" />
+		</city>
+		<city name="杭州市" sx="H">
+			<college name="浙江大学" id="1005" />
+			<college name="浙江工业大学" id="1007" />
+			<college name="杭州电子科技大学" id="1008" />
+			<college name="浙江理工大学" id="1009" />
+			<college name="浙江中医药大学" id="1010" />
+			<college name="杭州师范大学" id="1012" />
+			<college name="浙江工商大学" id="1013" />
+			<college name="浙江财经大学" id="1018" />
+			<college name="中国计量学院" id="1022" />
+			<college name="浙江科技学院" id="1023" />
+			<college name="浙江传媒学院" id="1029" />
+			<college name="浙江警察学院" id="1030" />
+			<college name="中国美术学院" id="1031" />
+			<college name="浙江树人学院" id="1032" />
+			<college name="浙江外国语学院" id="1037" />
+			<college name="浙江水利水电学院" id="1038" />
+			<college name="浙江音乐学院（筹）" id="1040" />
+			<college name="浙江医学高等专科学校" id="1041" />
+			<college name="浙江交通职业技术学院" id="1043" />
+			<college name="浙江金融职业学院" id="1044" />
+			<college name="浙江旅游职业学院" id="1045" />
+			<college name="浙江艺术职业学院" id="1046" />
+			<college name="浙江警官职业学院" id="1047" />
+			<college name="浙江经济职业技术学院" id="1048" />
+			<college name="浙江机电职业技术学院" id="1049" />
+			<college name="浙江体育职业技术学院" id="1050" />
+			<college name="浙江长征职业技术学院" id="1051" />
+			<college name="浙江建设职业技术学院" id="1052" />
+			<college name="浙江商业职业技术学院" id="1053" />
+			<college name="浙江育英职业技术学院" id="1054" />
+			<college name="浙江经贸职业技术学院" id="1055" />
+			<college name="浙江特殊教育职业学院" id="1056" />
+			<college name="杭州职业技术学院" id="1069" />
+			<college name="杭州科技职业技术学院" id="1070" />
+			<college name="杭州万向职业技术学院" id="1071" />
+			<college name="浙江大学城市学院" id="1088" />
+			<college name="浙江工业大学之江学院" id="1089" />
+			<college name="杭州电子科技大学信息工程学院" id="1092" />
+			<college name="浙江理工大学科技与艺术学院" id="1093" />
+			<college name="浙江中医药大学滨江学院" id="1097" />
+			<college name="杭州师范大学钱江学院" id="1098" />
+			<college name="浙江工商大学杭州商学院" id="1102" />
+			<college name="中国计量学院现代科技学院" id="1103" />
+			<college name="浙江树人学院" id="1110" />
+			<college name="浙江长征职业技术学院" id="1114" />
+			<college name="浙江育英职业技术学院" id="1115" />
+			<college name="杭州万向职业技术学院" id="1119" />
+		</city>
+		<city name="湖州市" sx="H">
+			<college name="湖州师范学院" id="1026" />
+			<college name="湖州职业技术学院" id="1083" />
+			<college name="湖州师范学院求真学院" id="1099" />
+		</city>
+		<city name="金华市" sx="J">
+			<college name="浙江师范大学" id="1011" />
+			<college name="金华职业技术学院" id="1079" />
+			<college name="浙江师范大学行知学院" id="1090" />
+			<college name="上海财经大学浙江学院" id="1108" />
+		</city>
+		<city name="嘉兴市" sx="J">
+			<college name="嘉兴学院" id="1021" />
+			<college name="嘉兴职业技术学院" id="1081" />
+			<college name="嘉兴南洋职业技术学院" id="1082" />
+			<college name="嘉兴学院南湖学院" id="1105" />
+			<college name="同济大学浙江学院" id="1107" />
+			<college name="嘉兴南洋职业技术学院" id="1120" />
+		</city>
+		<city name="临安市" sx="L">
+			<college name="浙江农林大学" id="1016" />
+		</city>
+		<city name="临海市" sx="L">
+			<college name="台州学院" id="1028" />
+			<college name="浙江汽车职业技术学院" id="1064" />
+			<college name="浙江汽车职业技术学院" id="1121" />
+		</city>
+		<city name="丽水市" sx="L">
+			<college name="丽水学院" id="1035" />
+			<college name="丽水职业技术学院" id="1080" />
+		</city>
+		<city name="宁波市" sx="N">
+			<college name="宁波大学" id="1006" />
+			<college name="宁波诺丁汉大学" id="1014" />
+			<college name="宁波大红鹰学院" id="1019" />
+			<college name="宁波工程学院" id="1024" />
+			<college name="浙江万里学院" id="1033" />
+			<college name="公安海警学院" id="1034" />
+			<college name="浙江医药高等专科学校" id="1042" />
+			<college name="浙江工商职业技术学院" id="1061" />
+			<college name="浙江纺织服装职业技术学院" id="1067" />
+			<college name="宁波职业技术学院" id="1072" />
+			<college name="宁波卫生职业技术学院" id="1073" />
+			<college name="宁波城市职业技术学院" id="1074" />
+			<college name="浙江大学宁波理工学院" id="1087" />
+			<college name="宁波大学科学技术学院" id="1091" />
+			<college name="宁波诺丁汉大学" id="1109" />
+			<college name="宁波大红鹰学院" id="1111" />
+		</city>
+		<city name="绍兴市" sx="S">
+			<college name="浙江越秀外国语学院" id="1020" />
+			<college name="绍兴文理学院" id="1027" />
+			<college name="浙江工业职业技术学院" id="1059" />
+			<college name="浙江农业商贸职业学院" id="1060" />
+			<college name="浙江邮电职业技术学院" id="1063" />
+			<college name="绍兴职业技术学院" id="1084" />
+			<college name="绍兴文理学院元培学院" id="1100" />
+			<college name="浙江越秀外国语学院" id="1112" />
+			<college name="绍兴职业技术学院" id="1116" />
+		</city>
+		<city name="台州市" sx="T">
+			<college name="浙江同济科技职业学院" id="1062" />
+			<college name="台州职业技术学院" id="1077" />
+			<college name="台州科技职业学院" id="1078" />
+		</city>
+		<city name="温州市" sx="W">
+			<college name="温州大学" id="1015" />
+			<college name="温州医科大学" id="1017" />
+			<college name="温州肯恩大学" id="1039" />
+			<college name="浙江工贸职业技术学院" id="1057" />
+			<college name="浙江东方职业技术学院" id="1058" />
+			<college name="温州职业技术学院" id="1075" />
+			<college name="温州科技职业学院" id="1076" />
+			<college name="温州医科大学仁济学院" id="1096" />
+			<college name="温州大学瓯江学院" id="1101" />
+			<college name="温州大学城市学院" id="1106" />
+			<college name="温州肯恩大学" id="1113" />
+			<college name="浙江东方职业技术学院" id="1117" />
+		</city>
+		<city name="义乌市" sx="Y">
+			<college name="义乌工商职业技术学院" id="1086" />
+		</city>
+		<city name="衢州市" sx="Z">
+			<college name="衢州学院" id="1036" />
+			<college name="衢州职业技术学院" id="1085" />
+		</city>
+		<city name="诸暨市" sx="Z">
+			<college name="浙江农林大学暨阳学院" id="1095" />
+		</city>
+		<city name="舟山市" sx="Z">
+			<college name="浙江海洋学院" id="1025" />
+			<college name="浙江国际海运职业技术学院" id="1068" />
+			<college name="浙江海洋学院东海科学技术学院" id="1094" />
+		</city>
+	</province>
+	<province name="福建">
+		<city name="福州市" sx="F">
+			<college name="福建农林大学" id="1262" />
+			<college name="福州大学" id="1264" />
+			<college name="福建医科大学" id="1266" />
+			<college name="福建师范大学" id="1267" />
+			<college name="福建中医药大学" id="1268" />
+			<college name="福建工程学院" id="1270" />
+			<college name="闽江学院" id="1275" />
+			<college name="福建警察学院" id="1278" />
+			<college name="福建江夏学院" id="1280" />
+			<college name="福州外语外贸学院" id="1282" />
+			<college name="泉州信息工程学院" id="1283" />
+			<college name="福建商业高等专科学校" id="1285" />
+			<college name="厦门医学高等专科学校" id="1286" />
+			<college name="福建幼儿师范高等专科学校" id="1287" />
+			<college name="闽江师范高等专科学校" id="1289" />
+			<college name="福建华南女子职业学院" id="1290" />
+			<college name="福建船政交通职业学院" id="1291" />
+			<college name="福建艺术职业学院" id="1292" />
+			<college name="福建生物工程职业技术学院" id="1293" />
+			<college name="福州科技职业技术学院" id="1294" />
+			<college name="福建对外经济贸易职业技术学院" id="1295" />
+			<college name="福建农业职业技术学院" id="1296" />
+			<college name="福建信息职业技术学院" id="1299" />
+			<college name="福建卫生职业技术学院" id="1301" />
+			<college name="福建体育职业技术学院" id="1302" />
+			<college name="福州英华职业学院" id="1303" />
+			<college name="福州软件职业技术学院" id="1304" />
+			<college name="福州职业技术学院" id="1305" />
+			<college name="福州海峡职业技术学院" id="1306" />
+			<college name="福州黎明职业技术学院" id="1307" />
+			<college name="福州大学阳光学院" id="1339" />
+			<college name="福建师范大学协和学院" id="1340" />
+			<college name="福建农林大学东方学院" id="1341" />
+			<college name="福州大学至诚学院" id="1345" />
+			<college name="福建农林大学金山学院" id="1346" />
+			<college name="福州外语外贸学院" id="1349" />
+			<college name="泉州信息工程学院" id="1350" />
+			<college name="福建华南女子职业学院" id="1351" />
+			<college name="福州英华职业学院" id="1352" />
+			<college name="福州海峡职业技术学院" id="1358" />
+			<college name="福州科技职业技术学院" id="1359" />
+			<college name="福州黎明职业技术学院" id="1360" />
+			<college name="福州软件职业技术学院" id="1365" />
+		</city>
+		<city name="龙岩市" sx="L">
+			<college name="龙岩学院" id="1273" />
+			<college name="闽西职业技术学院" id="1332" />
+		</city>
+		<city name="宁德市" sx="N">
+			<college name="宁德师范学院" id="1281" />
+			<college name="宁德职业技术学院" id="1336" />
+		</city>
+		<city name="南平市" sx="N">
+			<college name="武夷学院" id="1277" />
+			<college name="福建林业职业技术学院" id="1297" />
+			<college name="闽北职业技术学院" id="1333" />
+		</city>
+		<city name="莆田市" sx="P">
+			<college name="莆田学院" id="1274" />
+		</city>
+		<city name="泉州市" sx="Q">
+			<college name="华侨大学" id="1261" />
+			<college name="仰恩大学" id="1265" />
+			<college name="泉州师范学院" id="1271" />
+			<college name="闽南理工学院" id="1279" />
+			<college name="泉州医学高等专科学校" id="1284" />
+			<college name="泉州幼儿师范高等专科学校" id="1288" />
+			<college name="福建电力职业技术学院" id="1298" />
+			<college name="泉州纺织服装职业学院" id="1323" />
+			<college name="泉州经贸职业技术学院" id="1324" />
+			<college name="泉州海洋职业学院" id="1325" />
+			<college name="泉州轻工职业学院" id="1326" />
+			<college name="泉州华光职业学院" id="1327" />
+			<college name="泉州理工职业学院" id="1328" />
+			<college name="泉州工艺美术职业学院" id="1329" />
+			<college name="黎明职业大学" id="1330" />
+			<college name="泉州工程职业技术学院" id="1337" />
+			<college name="福建师范大学闽南科技学院" id="1342" />
+			<college name="仰恩大学" id="1347" />
+			<college name="闽南理工学院" id="1348" />
+			<college name="泉州纺织服装职业学院" id="1354" />
+			<college name="泉州华光职业学院" id="1355" />
+			<college name="泉州理工职业学院" id="1356" />
+			<college name="泉州海洋职业学院" id="1371" />
+			<college name="泉州轻工职业学院" id="1372" />
+			<college name="泉州工程职业技术学院" id="1373" />
+		</city>
+		<city name="三明市" sx="S">
+			<college name="三明学院" id="1276" />
+			<college name="三明职业技术学院" id="1331" />
+		</city>
+		<city name="武夷山市" sx="W">
+			<college name="武夷山职业学院" id="1335" />
+			<college name="武夷山职业学院" id="1364" />
+		</city>
+		<city name="厦门市" sx="X">
+			<college name="厦门大学" id="1260" />
+			<college name="集美大学" id="1263" />
+			<college name="厦门理工学院" id="1269" />
+			<college name="厦门华厦职业学院" id="1308" />
+			<college name="厦门城市职业学院" id="1309" />
+			<college name="厦门兴才职业技术学院" id="1310" />
+			<college name="厦门演艺职业学院" id="1311" />
+			<college name="厦门华天涉外职业技术学院" id="1312" />
+			<college name="厦门软件职业技术学院" id="1313" />
+			<college name="厦门海洋职业技术学院" id="1314" />
+			<college name="厦门南洋职业学院" id="1315" />
+			<college name="厦门东海职业技术学院" id="1316" />
+			<college name="厦门安防科技职业学院" id="1317" />
+			<college name="厦门大学嘉庚学院" id="1338" />
+			<college name="华侨大学厦门工学院" id="1343" />
+			<college name="集美大学诚毅学院" id="1344" />
+			<college name="厦门华厦职业学院" id="1353" />
+			<college name="厦门华天涉外职业技术学院" id="1357" />
+			<college name="厦门演艺职业学院" id="1361" />
+			<college name="厦门兴才职业技术学院" id="1362" />
+			<college name="厦门软件职业技术学院" id="1363" />
+			<college name="厦门东海职业技术学院" id="1368" />
+			<college name="厦门南洋职业学院" id="1369" />
+			<college name="厦门安防科技职业学院" id="1370" />
+		</city>
+		<city name="永安市" sx="Y">
+			<college name="福建水利电力职业技术学院" id="1300" />
+		</city>
+		<city name="湄洲" sx="Z">
+			<college name="湄洲湾职业技术学院" id="1334" />
+		</city>
+		<city name="漳州市" sx="Z">
+			<college name="闽南师范大学" id="1272" />
+			<college name="漳州城市职业学院" id="1318" />
+			<college name="漳州职业技术学院" id="1319" />
+			<college name="漳州卫生职业学院" id="1320" />
+			<college name="漳州科技职业学院" id="1321" />
+			<college name="漳州理工职业学院" id="1322" />
+			<college name="漳州理工职业学院" id="1366" />
+			<college name="漳州科技职业学院" id="1367" />
+		</city>
+	</province>
+	<province name="江西">
+		<city name="抚州市" sx="F">
+			<college name="东华理工大学" id="1380" />
+			<college name="江西中医药高等专科学校" id="1403" />
+			<college name="抚州职业技术学院" id="1414" />
+			<college name="东华理工大学长江学院" id="1460" />
+		</city>
+		<city name="共青城" sx="G">
+			<college name="共青科技职业学院" id="1448" />
+			<college name="南昌大学共青学院" id="1467" />
+		</city>
+		<city name="赣州市" sx="G">
+			<college name="江西理工大学" id="1375" />
+			<college name="赣南医学院" id="1387" />
+			<college name="赣南师范学院" id="1389" />
+			<college name="赣州师范高等专科学校" id="1405" />
+			<college name="江西应用技术职业学院" id="1413" />
+			<college name="江西环境工程职业学院" id="1420" />
+			<college name="江西理工大学应用科学学院" id="1459" />
+			<college name="赣南师范学院科技学院" id="1464" />
+		</city>
+		<city name="吉安市" sx="J">
+			<college name="井冈山大学" id="1382" />
+			<college name="吉安职业技术学院" id="1453" />
+		</city>
+		<city name="景德镇" sx="J">
+			<college name="景德镇陶瓷学院" id="1384" />
+			<college name="景德镇学院" id="1398" />
+		</city>
+		<city name="景德镇市" sx="J">
+			<college name="江西陶瓷工艺美术职业技术学院" id="1432" />
+			<college name="景德镇陶瓷职业技术学院" id="1447" />
+			<college name="景德镇陶瓷学院科技艺术学院" id="1465" />
+		</city>
+		<city name="九江市" sx="J">
+			<college name="江西枫林涉外经贸职业学院" id="1479" />
+			<college name="九江学院" id="1392" />
+			<college name="九江职业技术学院" id="1407" />
+			<college name="九江职业大学" id="1409" />
+			<college name="江西财经职业学院" id="1440" />
+			<college name="江西枫林涉外经贸职业学院" id="1444" />
+		</city>
+		<city name="南昌市" sx="N">
+			<college name="南昌大学" id="1374" />
+			<college name="华东交通大学" id="1376" />
+			<college name="江西农业大学" id="1377" />
+			<college name="江西师范大学" id="1378" />
+			<college name="江西财经大学" id="1379" />
+			<college name="南昌航空大学" id="1381" />
+			<college name="江西中医药大学" id="1383" />
+			<college name="南昌工程学院" id="1385" />
+			<college name="南昌理工学院" id="1386" />
+			<college name="江西科技师范大学" id="1390" />
+			<college name="江西科技学院" id="1391" />
+			<college name="江西警察学院" id="1395" />
+			<college name="江西服装学院" id="1396" />
+			<college name="南昌工学院" id="1397" />
+			<college name="南昌师范学院" id="1400" />
+			<college name="江西应用科技学院" id="1402" />
+			<college name="南昌师范高等专科学校" id="1404" />
+			<college name="江西工业职业技术学院" id="1408" />
+			<college name="江西科技职业学院" id="1410" />
+			<college name="江西先锋软件职业技术学院" id="1411" />
+			<college name="江西经济管理职业学院" id="1412" />
+			<college name="江西生物科技职业学院" id="1416" />
+			<college name="江西外语外贸职业学院" id="1417" />
+			<college name="江西工业贸易职业技术学院" id="1418" />
+			<college name="江西电力职业技术学院" id="1419" />
+			<college name="江西航空职业技术学院" id="1421" />
+			<college name="江西青年职业学院" id="1423" />
+			<college name="江西建设职业技术学院" id="1424" />
+			<college name="江西工程职业学院" id="1425" />
+			<college name="南昌职业学院" id="1426" />
+			<college name="江西制造职业技术学院" id="1427" />
+			<college name="江西旅游商贸职业学院" id="1430" />
+			<college name="江西机电职业技术学院" id="1431" />
+			<college name="江西信息应用职业技术学院" id="1433" />
+			<college name="江西交通职业技术学院" id="1434" />
+			<college name="江西护理职业技术学院" id="1435" />
+			<college name="江西现代职业技术学院" id="1437" />
+			<college name="江西艺术职业学院" id="1441" />
+			<college name="江西司法警官职业学院" id="1442" />
+			<college name="江西泰豪动漫职业学院" id="1443" />
+			<college name="江西新闻出版职业技术学院" id="1445" />
+			<college name="江西工商职业技术学院" id="1449" />
+			<college name="江西水利职业学院" id="1450" />
+			<college name="南昌大学科学技术学院" id="1455" />
+			<college name="江西农业大学南昌商学院" id="1456" />
+			<college name="江西师范大学科学技术学院" id="1457" />
+			<college name="华东交通大学理工学院" id="1458" />
+			<college name="南昌航空大学科技学院" id="1461" />
+			<college name="江西中医药大学科技学院" id="1462" />
+			<college name="江西财经大学现代经济管理学院" id="1463" />
+			<college name="江西科技师范大学理工学院" id="1466" />
+			<college name="南昌理工学院" id="1468" />
+			<college name="江西科技学院" id="1469" />
+			<college name="江西服装学院" id="1470" />
+			<college name="南昌工学院" id="1471" />
+			<college name="江西应用科技学院" id="1473" />
+			<college name="南昌职业学院" id="1474" />
+			<college name="江西科技职业学院" id="1475" />
+			<college name="江西先锋软件职业技术学院" id="1476" />
+			<college name="江西泰豪动漫职业学院" id="1478" />
+			<college name="江西工商职业技术学院" id="1480" />
+		</city>
+		<city name="萍乡市" sx="P">
+			<college name="萍乡学院" id="1399" />
+			<college name="江西工业工程职业技术学院" id="1436" />
+			<college name="江西应用工程职业学院" id="1439" />
+		</city>
+		<city name="上饶市" sx="S">
+			<college name="上饶师范学院" id="1388" />
+			<college name="江西医学高等专科学校" id="1406" />
+			<college name="上饶职业技术学院" id="1428" />
+		</city>
+		<city name="新余市" sx="X">
+			<college name="赣西科技职业学院" id="1477" />
+			<college name="江西新能源科技职业学院" id="1481" />
+			<college name="新余学院" id="1394" />
+			<college name="江西工程学院" id="1401" />
+			<college name="赣西科技职业学院" id="1429" />
+			<college name="江西冶金职业技术学院" id="1446" />
+			<college name="江西新能源科技职业学院" id="1451" />
+			<college name="江西工程学院" id="1472" />
+		</city>
+		<city name="宜春市" sx="Y">
+			<college name="宜春学院" id="1393" />
+			<college name="宜春职业技术学院" id="1415" />
+			<college name="宜春幼儿师范高等专科学校" id="1452" />
+			<college name="江西洪州职业学院" id="1454" />
+			<college name="江西洪州职业学院" id="1482" />
+		</city>
+		<city name="鹰潭市" sx="Y">
+			<college name="鹰潭职业技术学院" id="1438" />
+		</city>
+		<city name="樟树市" sx="Z">
+			<college name="江西农业工程职业学院" id="1422" />
+		</city>
+	</province>
+	<province name="宁夏">
+		<city name="固原市" sx="G">
+			<college name="宁夏师范学院" id="2887" />
+		</city>
+		<city name="石嘴山" sx="S">
+			<college name="宁夏理工学院" id="2886" />
+			<college name="宁夏理工学院" id="2901" />
+		</city>
+		<city name="石嘴山市" sx="S">
+			<college name="宁夏工业职业学院" id="2891" />
+		</city>
+		<city name="吴忠市" sx="W">
+			<college name="宁夏民族职业技术学院" id="2889" />
+		</city>
+		<city name="银川市" sx="Y">
+			<college name="宁夏大学" id="2883" />
+			<college name="北方民族大学" id="2884" />
+			<college name="宁夏医科大学" id="2885" />
+			<college name="银川能源学院" id="2888" />
+			<college name="宁夏工商职业技术学院" id="2890" />
+			<college name="宁夏职业技术学院" id="2892" />
+			<college name="宁夏建设职业技术学院" id="2893" />
+			<college name="宁夏财经职业技术学院" id="2894" />
+			<college name="宁夏司法警官职业学院" id="2895" />
+			<college name="宁夏防沙治沙职业技术学院" id="2896" />
+			<college name="宁夏幼儿师范高等专科学校" id="2897" />
+			<college name="宁夏艺术职业学院" id="2898" />
+			<college name="宁夏大学新华学院" id="2899" />
+			<college name="中国矿业大学银川学院" id="2900" />
+			<college name="银川能源学院" id="2902" />
+		</city>
+	</province>
+	<province name="海南">
+		<city name="海口市" sx="H">
+			<college name="海南大学" id="2344" />
+			<college name="海南师范大学" id="2345" />
+			<college name="海南医学院" id="2346" />
+			<college name="海口经济学院" id="2348" />
+			<college name="琼台师范高等专科学校" id="2350" />
+			<college name="海南职业技术学院" id="2351" />
+			<college name="海南政法职业学院" id="2354" />
+			<college name="海南经贸职业技术学院" id="2355" />
+			<college name="海南工商职业学院" id="2356" />
+			<college name="海南科技职业学院" id="2357" />
+			<college name="海口经济学院" id="2361" />
+			<college name="海南工商职业学院" id="2365" />
+			<college name="海南科技职业学院" id="2366" />
+		</city>
+		<city name="琼海市" sx="Q">
+			<college name="海南软件职业技术学院" id="2352" />
+		</city>
+		<city name="三亚市" sx="S">
+			<college name="三亚学院" id="2349" />
+			<college name="三亚城市职业学院" id="2358" />
+			<college name="三亚航空旅游职业学院" id="2359" />
+			<college name="三亚理工职业学院" id="2360" />
+			<college name="三亚学院" id="2362" />
+			<college name="三亚城市职业学院" id="2363" />
+			<college name="三亚航空旅游职业学院" id="2364" />
+			<college name="三亚理工职业学院" id="2367" />
+		</city>
+		<city name="文昌市" sx="W">
+			<college name="海南外国语职业学院" id="2353" />
+		</city>
+		<city name="五指山" sx="W">
+			<college name="琼州学院" id="2347" />
+		</city>
+	</province>
+	<province name="西藏">
+		<city name="拉萨市" sx="L">
+			<college name="西藏大学" id="2713" />
+			<college name="西藏藏医学院" id="2714" />
+			<college name="拉萨师范高等专科学校" id="2716" />
+			<college name="西藏警官高等专科学校" id="2717" />
+			<college name="西藏职业技术学院" id="2718" />
+		</city>
+		<city name="咸阳市" sx="X">
+			<college name="西藏民族学院" id="2715" />
+		</city>
+	</province>
+	<province name="上海">
+		<city name="上海市" sx="S">
+			<college name="复旦大学" id="737" />
+			<college name="同济大学" id="738" />
+			<college name="上海交通大学" id="739" />
+			<college name="华东理工大学" id="740" />
+			<college name="东华大学" id="741" />
+			<college name="华东师范大学" id="742" />
+			<college name="上海外国语大学" id="743" />
+			<college name="上海财经大学" id="744" />
+			<college name="上海大学" id="745" />
+			<college name="上海理工大学" id="746" />
+			<college name="上海海事大学" id="747" />
+			<college name="上海工程技术大学" id="748" />
+			<college name="上海海洋大学" id="749" />
+			<college name="上海中医药大学" id="750" />
+			<college name="上海师范大学" id="751" />
+			<college name="华东政法大学" id="752" />
+			<college name="上海海关学院" id="753" />
+			<college name="上海建桥学院" id="754" />
+			<college name="上海政法学院" id="755" />
+			<college name="上海应用技术学院" id="756" />
+			<college name="上海第二工业大学" id="757" />
+			<college name="上海电机学院" id="758" />
+			<college name="上海电力学院" id="759" />
+			<college name="上海对外经贸大学" id="760" />
+			<college name="上海金融学院" id="761" />
+			<college name="上海立信会计学院" id="762" />
+			<college name="上海体育学院" id="763" />
+			<college name="上海音乐学院" id="764" />
+			<college name="上海戏剧学院" id="765" />
+			<college name="上海商学院" id="766" />
+			<college name="上海杉达学院" id="767" />
+			<college name="上海视觉艺术学院" id="768" />
+			<college name="上海纽约大学" id="769" />
+			<college name="上海科技大学" id="770" />
+			<college name="上海兴伟学院" id="771" />
+			<college name="上海医疗器械高等专科学校" id="772" />
+			<college name="上海出版印刷高等专科学校" id="773" />
+			<college name="上海医药高等专科学校" id="774" />
+			<college name="上海旅游高等专科学校" id="775" />
+			<college name="上海公安高等专科学校" id="776" />
+			<college name="上海电影艺术职业学院" id="777" />
+			<college name="上海新侨职业技术学院" id="778" />
+			<college name="上海东海职业技术学院" id="779" />
+			<college name="上海电子信息职业技术学院" id="780" />
+			<college name="上海工艺美术职业学院" id="781" />
+			<college name="上海立达职业技术学院" id="782" />
+			<college name="上海济光职业技术学院" id="783" />
+			<college name="上海交通职业技术学院" id="784" />
+			<college name="上海工商外国语职业学院" id="785" />
+			<college name="上海海事职业技术学院" id="786" />
+			<college name="上海科学技术职业学院" id="787" />
+			<college name="上海城市管理职业技术学院" id="788" />
+			<college name="上海震旦职业学院" id="789" />
+			<college name="上海民航职业技术学院" id="790" />
+			<college name="上海行健职业学院" id="791" />
+			<college name="上海工会管理职业学院" id="792" />
+			<college name="上海邦德职业技术学院" id="793" />
+			<college name="上海农林职业技术学院" id="794" />
+			<college name="上海中侨职业技术学院" id="795" />
+			<college name="上海思博职业技术学院" id="796" />
+			<college name="上海欧华职业技术学院" id="797" />
+			<college name="上海体育职业学院" id="798" />
+			<college name="上海民远职业技术学院" id="799" />
+			<college name="上海建峰职业技术学院" id="800" />
+			<college name="上海健康职业技术学院" id="801" />
+			<college name="上海中华职业技术学院" id="802" />
+			<college name="上海外国语大学贤达经济人文学院" id="803" />
+			<college name="上海师范大学天华学院" id="804" />
+			<college name="上海视觉艺术学院" id="805" />
+			<college name="上海纽约大学" id="806" />
+			<college name="上海杉达学院" id="807" />
+			<college name="上海建桥学院" id="808" />
+			<college name="上海兴伟学院" id="809" />
+			<college name="上海新侨职业技术学院" id="810" />
+			<college name="上海东海职业技术学院" id="811" />
+			<college name="上海工商外国语职业学院" id="812" />
+			<college name="上海济光职业技术学院" id="813" />
+			<college name="上海邦德职业技术学院" id="814" />
+			<college name="上海中侨职业技术学院" id="815" />
+			<college name="上海思博职业技术学院" id="816" />
+			<college name="上海欧华职业技术学院" id="817" />
+			<college name="上海民远职业技术学院" id="818" />
+			<college name="上海立达职业技术学院" id="819" />
+			<college name="上海震旦职业学院" id="820" />
+			<college name="上海电影艺术职业学院" id="821" />
+			<college name="上海中华职业技术学院" id="822" />
+		</city>
+	</province>
+	<province name="天津">
+		<city name="天津市" sx="T">
+			<college name="南开大学" id="102" />
+			<college name="天津大学" id="103" />
+			<college name="中国民航大学" id="104" />
+			<college name="天津工业大学" id="105" />
+			<college name="天津科技大学" id="106" />
+			<college name="天津理工大学" id="107" />
+			<college name="天津医科大学" id="108" />
+			<college name="天津中医药大学" id="109" />
+			<college name="天津师范大学" id="110" />
+			<college name="天津财经大学" id="111" />
+			<college name="天津商业大学" id="112" />
+			<college name="天津外国语大学" id="113" />
+			<college name="天津职业技术师范大学" id="114" />
+			<college name="天津天狮学院" id="115" />
+			<college name="天津城建大学" id="116" />
+			<college name="天津农学院" id="117" />
+			<college name="天津体育学院" id="118" />
+			<college name="天津音乐学院" id="119" />
+			<college name="天津美术学院" id="120" />
+			<college name="天津医学高等专科学校" id="121" />
+			<college name="天津机电职业技术学院" id="122" />
+			<college name="天津现代职业技术学院" id="123" />
+			<college name="天津轻工职业技术学院" id="124" />
+			<college name="天津职业大学" id="125" />
+			<college name="天津滨海职业学院" id="126" />
+			<college name="天津公安警官职业学院" id="127" />
+			<college name="天津渤海职业技术学院" id="128" />
+			<college name="天津工程职业技术学院" id="129" />
+			<college name="天津电子信息职业技术学院" id="130" />
+			<college name="天津城市建设管理职业技术学院" id="131" />
+			<college name="天津广播影视职业学院" id="132" />
+			<college name="天津国土资源和房屋职业学院" id="133" />
+			<college name="天津海运职业学院" id="134" />
+			<college name="天津中德职业技术学院" id="135" />
+			<college name="天津石油职业技术学院" id="136" />
+			<college name="天津艺术职业学院" id="137" />
+			<college name="天津城市职业学院" id="138" />
+			<college name="天津生物工程职业技术学院" id="139" />
+			<college name="天津冶金职业技术学院" id="140" />
+			<college name="天津工艺美术职业学院" id="141" />
+			<college name="天津铁道职业技术学院" id="142" />
+			<college name="天津交通职业学院" id="143" />
+			<college name="天津商务职业学院" id="144" />
+			<college name="天津青年职业学院" id="145" />
+			<college name="天津开发区职业技术学院" id="146" />
+			<college name="天津体育学院运动与文化艺术学院" id="147" />
+			<college name="南开大学滨海学院" id="148" />
+			<college name="天津外国语学院滨海外事学院" id="149" />
+			<college name="天津商业大学宝德学院" id="150" />
+			<college name="天津医科大学临床医学院" id="151" />
+			<college name="北京科技大学天津学院" id="152" />
+			<college name="天津师范大学津沽学院" id="153" />
+			<college name="天津理工大学中环信息学院" id="154" />
+			<college name="天津大学仁爱学院" id="155" />
+			<college name="天津财经大学珠江学院" id="156" />
+			<college name="天津天狮学院" id="157" />
+			<college name="河北工业大学" id="159" />
+			<college name="河北工业大学城市学院" id="267" />
+		</city>
+	</province>
+	<province name="青海">
+		<city name="西宁市" sx="X">
+			<college name="青海大学" id="2874" />
+			<college name="青海师范大学" id="2875" />
+			<college name="青海民族大学" id="2876" />
+			<college name="青海畜牧兽医职业技术学院" id="2877" />
+			<college name="青海卫生职业技术学院" id="2878" />
+			<college name="青海交通职业技术学院" id="2879" />
+			<college name="青海建筑职业技术学院" id="2880" />
+			<college name="青海警官职业学院" id="2881" />
+			<college name="青海大学昆仑学院" id="2882" />
+		</city>
+	</province>
+	<province name="重庆">
+		<city name="重庆市" sx="Z">
+			<college name="重庆大学" id="2368" />
+			<college name="西南大学" id="2369" />
+			<college name="重庆交通大学" id="2370" />
+			<college name="重庆邮电大学" id="2371" />
+			<college name="重庆医科大学" id="2372" />
+			<college name="重庆师范大学" id="2373" />
+			<college name="重庆理工大学" id="2374" />
+			<college name="重庆工商大学" id="2375" />
+			<college name="西南政法大学" id="2376" />
+			<college name="重庆科技学院" id="2377" />
+			<college name="长江师范学院" id="2378" />
+			<college name="重庆第二师范学院" id="2379" />
+			<college name="重庆警察学院" id="2380" />
+			<college name="四川外国语大学" id="2381" />
+			<college name="四川美术学院" id="2382" />
+			<college name="重庆三峡学院" id="2383" />
+			<college name="重庆文理学院" id="2384" />
+			<college name="重庆人文科技学院" id="2385" />
+			<college name="重庆工程学院" id="2386" />
+			<college name="重庆电力高等专科学校" id="2387" />
+			<college name="重庆医药高等专科学校" id="2388" />
+			<college name="重庆三峡医药高等专科学校" id="2389" />
+			<college name="重庆幼儿师范高等专科学校" id="2390" />
+			<college name="重庆电子工程职业学院" id="2391" />
+			<college name="重庆工业职业技术学院" id="2392" />
+			<college name="重庆水利电力职业技术学院" id="2393" />
+			<college name="重庆工商职业学院" id="2394" />
+			<college name="重庆应用技术职业学院" id="2395" />
+			<college name="重庆房地产职业学院" id="2396" />
+			<college name="重庆城市管理职业学院" id="2397" />
+			<college name="重庆信息技术职业学院" id="2398" />
+			<college name="重庆城市职业学院" id="2399" />
+			<college name="重庆工程职业技术学院" id="2400" />
+			<college name="重庆青年职业技术学院" id="2401" />
+			<college name="重庆机电职业技术学院" id="2402" />
+			<college name="重庆航天职业技术学院" id="2403" />
+			<college name="重庆三峡职业学院" id="2404" />
+			<college name="重庆工贸职业技术学院" id="2405" />
+			<college name="重庆海联职业技术学院" id="2406" />
+			<college name="重庆财经职业学院" id="2407" />
+			<college name="重庆科创职业学院" id="2408" />
+			<college name="重庆建筑工程职业学院" id="2409" />
+			<college name="重庆传媒职业学院" id="2410" />
+			<college name="重庆电讯职业学院" id="2411" />
+			<college name="重庆电信职业学院" id="2412" />
+			<college name="重庆能源职业学院" id="2413" />
+			<college name="重庆商务职业学院" id="2414" />
+			<college name="重庆交通职业学院" id="2415" />
+			<college name="重庆旅游职业学院" id="2416" />
+			<college name="重庆化工职业学院" id="2417" />
+			<college name="重庆安全技术职业学院" id="2418" />
+			<college name="重庆公共运输职业学院" id="2419" />
+			<college name="重庆轻工职业学院" id="2420" />
+			<college name="重庆经贸职业学院" id="2421" />
+			<college name="重庆艺术工程职业学院" id="2422" />
+			<college name="重庆文化艺术职业学院" id="2423" />
+			<college name="重庆服装工程职业学院" id="2424" />
+			<college name="四川外语学院重庆南方翻译学院" id="2425" />
+			<college name="重庆师范大学涉外商贸学院" id="2426" />
+			<college name="重庆工商大学融智学院" id="2427" />
+			<college name="重庆工商大学派斯学院" id="2428" />
+			<college name="重庆邮电大学移通学院" id="2429" />
+			<college name="重庆大学城市科技学院" id="2430" />
+			<college name="重庆人文科技学院" id="2431" />
+			<college name="重庆工程学院" id="2432" />
+			<college name="重庆海联职业技术学院" id="2433" />
+			<college name="重庆信息技术职业学院" id="2434" />
+			<college name="重庆房地产职业学院" id="2435" />
+			<college name="重庆应用技术职业学院" id="2436" />
+			<college name="重庆科创职业学院" id="2437" />
+			<college name="重庆传媒职业学院" id="2438" />
+			<college name="重庆电讯职业学院" id="2439" />
+			<college name="重庆能源职业学院" id="2440" />
+			<college name="重庆公共运输职业学院" id="2441" />
+			<college name="重庆轻工职业学院" id="2442" />
+			<college name="重庆电信职业学院" id="2443" />
+			<college name="重庆经贸职业学院" id="2444" />
+			<college name="重庆艺术工程职业学院" id="2445" />
+			<college name="重庆服装工程职业学院" id="2446" />
+		</city>
+	</province>
+</root>

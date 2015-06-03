@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6245" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment defaultVersion="1536" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6238"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="ShareView">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="413"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="04u-5Q-VPf">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="335"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="l_14.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="bAh-ad-lzY">
+                            <rect key="frame" x="8" y="8" width="304" height="319"/>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="碰密，八卦神器碰密，八卦神器碰密，八卦神器碰密，八卦神器" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EgQ-0s-rbX">
+                            <rect key="frame" x="8" y="8" width="304" height="319"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="centerY" secondItem="EgQ-0s-rbX" secondAttribute="centerY" id="8CL-Pm-e95"/>
+                        <constraint firstAttribute="bottomMargin" secondItem="EgQ-0s-rbX" secondAttribute="bottom" id="JMe-DS-vYu"/>
+                        <constraint firstItem="bAh-ad-lzY" firstAttribute="leading" secondItem="04u-5Q-VPf" secondAttribute="leadingMargin" id="MP7-fB-AbP"/>
+                        <constraint firstAttribute="trailingMargin" secondItem="EgQ-0s-rbX" secondAttribute="trailing" id="Z60-Jm-AqX"/>
+                        <constraint firstAttribute="bottomMargin" secondItem="bAh-ad-lzY" secondAttribute="bottom" id="hld-gM-cRK"/>
+                        <constraint firstAttribute="trailingMargin" secondItem="bAh-ad-lzY" secondAttribute="trailing" id="iXH-m7-VhR"/>
+                        <constraint firstItem="bAh-ad-lzY" firstAttribute="top" secondItem="04u-5Q-VPf" secondAttribute="topMargin" id="jRF-BE-dRU"/>
+                        <constraint firstAttribute="centerX" secondItem="EgQ-0s-rbX" secondAttribute="centerX" id="lBs-DO-BPa"/>
+                        <constraint firstItem="EgQ-0s-rbX" firstAttribute="top" secondItem="04u-5Q-VPf" secondAttribute="topMargin" id="vGn-NK-vcT"/>
+                        <constraint firstItem="EgQ-0s-rbX" firstAttribute="leading" secondItem="04u-5Q-VPf" secondAttribute="leadingMargin" id="wKz-Sc-r3k"/>
+                    </constraints>
+                    <variation key="default">
+                        <mask key="constraints">
+                            <exclude reference="8CL-Pm-e95"/>
+                            <exclude reference="lBs-DO-BPa"/>
+                        </mask>
+                    </variation>
+                </view>
+                <imageView userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="jWq-YR-fYe">
+                    <rect key="frame" x="8" y="335" width="304" height="70"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="70" id="NGh-kr-fb0"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="04u-5Q-VPf" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="6FS-l2-cEq"/>
+                <constraint firstItem="jWq-YR-fYe" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="8" id="7Hi-mP-EDM"/>
+                <constraint firstItem="04u-5Q-VPf" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="9VB-kZ-rdK"/>
+                <constraint firstAttribute="trailing" secondItem="jWq-YR-fYe" secondAttribute="trailing" constant="8" id="WTf-aX-N1E"/>
+                <constraint firstAttribute="bottom" secondItem="jWq-YR-fYe" secondAttribute="bottom" constant="8" id="ZvH-P8-ODq"/>
+                <constraint firstAttribute="trailing" secondItem="04u-5Q-VPf" secondAttribute="trailing" id="mkI-90-qCb"/>
+                <constraint firstItem="jWq-YR-fYe" firstAttribute="top" secondItem="04u-5Q-VPf" secondAttribute="bottom" id="wPf-mK-sIW"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="image1" destination="bAh-ad-lzY" id="JgF-rz-new"/>
+                <outlet property="image2" destination="jWq-YR-fYe" id="JmY-06-Zoh"/>
+                <outlet property="label" destination="EgQ-0s-rbX" id="oRO-rc-09V"/>
+            </connections>
+        </view>
+    </objects>
+    <resources>
+        <image name="l_14.jpg" width="720" height="720"/>
+    </resources>
+</document>

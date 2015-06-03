@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6751" systemVersion="14D131" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6736"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="D0_MineProfileTableViewCell" rowHeight="111" id="KGk-i7-Jjw" customClass="D0_MineProfileTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="379" height="111"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="defaultprofile.png" translatesAutoresizingMaskIntoConstraints="NO" id="IdX-6o-zcM">
+                        <rect key="frame" x="8" y="25" width="60" height="60"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="60" id="iVd-KY-L8c"/>
+                            <constraint firstAttribute="height" constant="60" id="wrd-pq-ijR"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="VC" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3LQ-jB-sou">
+                        <rect key="frame" x="78" y="18" width="23" height="21"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gSs-An-gKd">
+                        <rect key="frame" x="296" y="43" width="75" height="23"/>
+                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="75" id="ZEu-lK-gp1"/>
+                            <constraint firstAttribute="height" constant="23" id="hSN-ZY-Voo"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                        <state key="normal" title="VIP充值">
+                            <color key="titleColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="titleShadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        </state>
+                    </button>
+                    <button opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gsK-wU-fad">
+                        <rect key="frame" x="78" y="77" width="60" height="20"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="20" id="4tv-fT-r9I"/>
+                            <constraint firstAttribute="width" constant="60" id="d7q-R8-Lfk"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                        <state key="normal" title="普通用户" backgroundImage="user_data_usertype_icon.png">
+                            <color key="titleShadowColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        </state>
+                    </button>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailingMargin" secondItem="gSs-An-gKd" secondAttribute="trailing" id="8XM-MW-t1S"/>
+                    <constraint firstAttribute="bottomMargin" secondItem="gsK-wU-fad" secondAttribute="bottom" constant="5" id="BXj-ek-Vrd"/>
+                    <constraint firstAttribute="centerY" secondItem="IdX-6o-zcM" secondAttribute="centerY" id="IPI-O7-cyi"/>
+                    <constraint firstAttribute="centerY" secondItem="gSs-An-gKd" secondAttribute="centerY" id="MV8-lw-8qP"/>
+                    <constraint firstItem="3LQ-jB-sou" firstAttribute="leading" secondItem="IdX-6o-zcM" secondAttribute="trailing" constant="10" id="R8V-eS-MeJ"/>
+                    <constraint firstItem="IdX-6o-zcM" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leadingMargin" id="V7u-0F-IWC"/>
+                    <constraint firstItem="3LQ-jB-sou" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="topMargin" constant="10" id="fdl-aG-g2n"/>
+                    <constraint firstItem="gsK-wU-fad" firstAttribute="leading" secondItem="IdX-6o-zcM" secondAttribute="trailing" constant="10" id="mue-Vk-gRO"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="btn_chongzhi" destination="gSs-An-gKd" id="sg0-Yv-8bb"/>
+                <outlet property="btn_type" destination="gsK-wU-fad" id="bNt-HX-cs6"/>
+                <outlet property="img_profile" destination="IdX-6o-zcM" id="sgf-eQ-c06"/>
+                <outlet property="lbl_name" destination="3LQ-jB-sou" id="HVc-Rd-r04"/>
+            </connections>
+            <point key="canvasLocation" x="163.5" y="276.5"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="defaultprofile.png" width="70" height="70"/>
+        <image name="user_data_usertype_icon.png" width="137" height="23"/>
+    </resources>
+</document>
